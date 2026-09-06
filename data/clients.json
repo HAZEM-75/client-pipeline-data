@@ -1,5 +1,19 @@
 {
-  "clients": [],
+  "clients": [
+    {
+      "id": "47e9f341-b4ba-4ffc-a861-db170dddd9c6",
+      "name": "Test 1788724972603 0.4811923098502796",
+      "platform": "TikTok",
+      "channelUrl": "https://youtube.com/test",
+      "email": "original@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-06T20:02:52.868Z",
+      "stage": "lead-collection"
+    }
+  ],
   "version": 1,
-  "updatedAt": "2026-09-06T20:02:51.415Z"
+  "updatedAt": "2026-09-06T20:02:52.868Z"
 }
