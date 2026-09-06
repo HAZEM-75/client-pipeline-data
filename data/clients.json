@@ -1,19 +1,6 @@
 {
   "clients": [
     {
-      "id": "146fc426-9eec-4ddb-a69a-8b875d345553",
-      "name": "Stale Client 1",
-      "platform": "YouTube",
-      "channelUrl": "",
-      "email": "stale1@example.com",
-      "leadSource": "",
-      "outreachMessage": "",
-      "notes": "",
-      "lastContactDate": "2026-08-20",
-      "createdAt": "2026-09-06T17:33:10.089Z",
-      "stage": "outreach"
-    },
-    {
       "id": "1c81bf66-9049-4cad-b9e0-829a39e27744",
       "name": "Fresh Client 1",
       "platform": "TikTok",
@@ -28,5 +15,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-06T17:34:56.223Z"
+  "updatedAt": "2026-09-06T17:41:03.874Z"
 }
