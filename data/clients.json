@@ -1,19 +1,5 @@
 {
-  "clients": [
-    {
-      "id": "01b79763-47d8-4b4e-b9f6-4d7b57db75a3",
-      "name": "Updated Name",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-06T20:02:49.340Z",
-      "stage": "outreach"
-    }
-  ],
+  "clients": [],
   "version": 1,
-  "updatedAt": "2026-09-06T20:02:50.343Z"
+  "updatedAt": "2026-09-06T20:02:51.415Z"
 }
