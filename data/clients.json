@@ -2,7 +2,7 @@
   "clients": [
     {
       "id": "47e9f341-b4ba-4ffc-a861-db170dddd9c6",
-      "name": "Test 1788724972603 0.4811923098502796",
+      "name": "New Name",
       "platform": "TikTok",
       "channelUrl": "https://youtube.com/test",
       "email": "original@example.com",
@@ -15,5 +15,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-06T20:02:52.868Z"
+  "updatedAt": "2026-09-06T20:02:53.808Z"
 }
