@@ -12,8 +12,21 @@
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-06T17:33:10.089Z",
       "stage": "outreach"
+    },
+    {
+      "id": "1c81bf66-9049-4cad-b9e0-829a39e27744",
+      "name": "Fresh Client 1",
+      "platform": "TikTok",
+      "channelUrl": "",
+      "email": "fresh1@example.com",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": "2026-09-06",
+      "createdAt": "2026-09-06T17:34:56.223Z",
+      "stage": "follow-ups"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-06T17:33:10.089Z"
+  "updatedAt": "2026-09-06T17:34:56.223Z"
 }
