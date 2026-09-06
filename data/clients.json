@@ -2,7 +2,7 @@
   "clients": [
     {
       "id": "6136f9a6-dd87-43ce-bb15-f0c5c083b6a6",
-      "name": "Test Client",
+      "name": "Updated Test Client",
       "platform": "YouTube",
       "channelUrl": "https://youtube.com/test",
       "email": "test@example.com",
@@ -11,9 +11,9 @@
       "notes": "Test notes",
       "lastContactDate": "2026-09-06",
       "createdAt": "2026-09-06T16:32:14.567Z",
-      "stage": "lead-collection"
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-06T16:32:14.567Z"
+  "updatedAt": "2026-09-06T16:38:21.212Z"
 }
