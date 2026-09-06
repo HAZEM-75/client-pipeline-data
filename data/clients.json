@@ -1,19 +1,5 @@
 {
-  "clients": [
-    {
-      "id": "3c60cf5b-119e-470f-9a9f-b98befc3081f",
-      "name": "Test Client 2",
-      "platform": "TikTok",
-      "channelUrl": "",
-      "email": "test2@example.com",
-      "leadSource": "",
-      "outreachMessage": "",
-      "notes": "",
-      "lastContactDate": null,
-      "createdAt": "2026-09-06T17:27:38.173Z",
-      "stage": "lead-collection"
-    }
-  ],
+  "clients": [],
   "version": 1,
-  "updatedAt": "2026-09-06T17:27:38.173Z"
+  "updatedAt": "2026-09-06T17:29:19.233Z"
 }
