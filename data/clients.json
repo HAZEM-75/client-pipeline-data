@@ -956,8 +956,29 @@
           "text": "Client created"
         }
       ]
+    },
+    {
+      "id": "bc87dbd1-c194-452d-b750-497ae006cd22",
+      "name": "wqd",
+      "platform": "YouTube",
+      "channelUrl": "http://localhost:3000",
+      "email": "",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-07T18:29:01.734Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "53c99170-472e-42ab-9904-6a1a95cba59a",
+          "type": "created",
+          "timestamp": "2026-09-07T18:29:01.734Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:28:39.560Z"
+  "updatedAt": "2026-09-07T18:29:01.734Z"
 }
