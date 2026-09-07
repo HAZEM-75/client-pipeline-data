@@ -311,8 +311,21 @@
       "lastContactDate": "2026-09-03",
       "createdAt": "2026-09-07T03:29:23.480Z",
       "stage": "client"
+    },
+    {
+      "id": "db083c10-3829-4edc-b8d6-d7d07a254017",
+      "name": "Pied Piper 553",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/33732",
+      "email": "contact913@instagram.com",
+      "leadSource": "webinar",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-07",
+      "createdAt": "2026-09-07T03:29:24.520Z",
+      "stage": "client"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:23.480Z"
+  "updatedAt": "2026-09-07T03:29:24.520Z"
 }
