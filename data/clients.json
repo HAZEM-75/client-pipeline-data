@@ -25,8 +25,21 @@
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T02:50:43.959Z",
       "stage": "client"
+    },
+    {
+      "id": "d6ddb9b1-6f2a-4803-adde-f0d6370712fd",
+      "name": "Initech 870",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/96842",
+      "email": "contact7994@tiktok.com",
+      "leadSource": "referral",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-07",
+      "createdAt": "2026-09-07T03:29:00.466Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:23:46.113Z"
+  "updatedAt": "2026-09-07T03:29:00.466Z"
 }
