@@ -597,8 +597,21 @@
       "lastContactDate": null,
       "createdAt": "2026-09-07T04:24:39.885Z",
       "stage": "lead-collection"
+    },
+    {
+      "id": "3dcef5e3-ed04-432e-985a-c9f0b37de520",
+      "name": "hazeeeeee",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-07T04:33:27.057Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T04:24:39.885Z"
+  "updatedAt": "2026-09-07T04:33:27.057Z"
 }
