@@ -632,7 +632,7 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:20.141Z",
-      "stage": "follow-ups",
+      "stage": "replies",
       "activityLog": [
         {
           "id": "05306f7e-59e4-4357-b65c-7a28510ea7fc",
@@ -647,6 +647,14 @@
           "fromStage": "replies",
           "toStage": "follow-ups",
           "text": "Moved to follow ups"
+        },
+        {
+          "id": "48f83465-6ed7-4602-b173-76e697307f2c",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T18:53:06.173Z",
+          "fromStage": "follow-ups",
+          "toStage": "replies",
+          "text": "Moved to replies"
         }
       ]
     },
@@ -1033,5 +1041,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:53:03.834Z"
+  "updatedAt": "2026-09-07T18:53:06.173Z"
 }
