@@ -337,8 +337,21 @@
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:25.832Z",
       "stage": "client"
+    },
+    {
+      "id": "ca58806d-e943-4286-ad45-6b5cab25adfb",
+      "name": "Vandelay Industries 508",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/27787",
+      "email": "contact7504@other.com",
+      "leadSource": "organic",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-06",
+      "createdAt": "2026-09-07T03:51:06.549Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:47:51.172Z"
+  "updatedAt": "2026-09-07T03:51:06.549Z"
 }
