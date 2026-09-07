@@ -492,7 +492,7 @@
       "leadSource": "linkedin",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "⚠ Stale - needs follow-up!",
-      "lastContactDate": "2026-08-22",
+      "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:51:11.604Z",
       "stage": "outreach",
       "activityLog": [
@@ -501,6 +501,12 @@
           "type": "created",
           "timestamp": "2026-09-07T03:51:11.604Z",
           "text": "Client created"
+        },
+        {
+          "id": "319d9f42-989f-4eef-8219-bd653078f173",
+          "type": "contacted",
+          "timestamp": "2026-09-07T18:28:23.980Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -947,5 +953,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:17:30.249Z"
+  "updatedAt": "2026-09-07T18:28:23.980Z"
 }
