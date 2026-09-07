@@ -181,8 +181,21 @@
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:12.228Z",
       "stage": "replies"
+    },
+    {
+      "id": "5b3a4b76-7744-4bc7-a18e-53b83d319ea6",
+      "name": "Pied Piper 871",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/13487",
+      "email": "contact9831@tiktok.com",
+      "leadSource": "organic",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-20",
+      "createdAt": "2026-09-07T03:29:13.253Z",
+      "stage": "qualification"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:12.228Z"
+  "updatedAt": "2026-09-07T03:29:13.253Z"
 }
