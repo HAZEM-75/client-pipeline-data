@@ -365,19 +365,6 @@
       "stage": "lead-collection"
     },
     {
-      "id": "4e82f56f-be6c-4103-8b00-753f0f5f8294",
-      "name": "Acme Corp 587",
-      "platform": "TikTok",
-      "channelUrl": "https://tiktok.com/channel/62004",
-      "email": "contact6239@tiktok.com",
-      "leadSource": "linkedin",
-      "outreachMessage": "",
-      "notes": "Active conversation",
-      "lastContactDate": "2026-09-05",
-      "createdAt": "2026-09-07T03:51:09.141Z",
-      "stage": "lead-collection"
-    },
-    {
       "id": "3afdd8b3-00c6-49ae-8fc7-cbf097bae883",
       "name": "Soylent Corp 819",
       "platform": "Instagram",
@@ -652,5 +639,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:35.329Z"
+  "updatedAt": "2026-09-07T03:54:39.127Z"
 }
