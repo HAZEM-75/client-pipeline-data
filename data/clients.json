@@ -923,8 +923,50 @@
           "text": "Client created"
         }
       ]
+    },
+    {
+      "id": "0cb446d1-35b1-49b6-8ab7-5911104462ad",
+      "name": "Smoke Import Lead",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "smoke@test.local",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-07T18:13:20.511Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "87bc57dc-c12b-437e-9352-e85d405a679c",
+          "type": "imported",
+          "timestamp": "2026-09-07T18:13:20.511Z",
+          "text": "Imported from spreadsheet"
+        }
+      ]
+    },
+    {
+      "id": "76a8451b-1e13-47d0-8a84-70d4820b1b10",
+      "name": "Smoke Import Fallback",
+      "platform": "Instagram",
+      "channelUrl": "",
+      "email": "fallback@test.local",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-07T18:13:20.511Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "e780a791-cb02-4af3-b516-3daf43e80b22",
+          "type": "imported",
+          "timestamp": "2026-09-07T18:13:20.511Z",
+          "text": "Imported from spreadsheet"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:12:15.402Z"
+  "updatedAt": "2026-09-07T18:13:20.511Z"
 }
