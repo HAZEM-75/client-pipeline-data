@@ -352,19 +352,6 @@
       "stage": "lead-collection"
     },
     {
-      "id": "aed74679-69d8-472a-8e07-edadfccfeab9",
-      "name": "Acme Corp 63",
-      "platform": "Other",
-      "channelUrl": "https://other.com/channel/11624",
-      "email": "contact3404@other.com",
-      "leadSource": "youtube-scraper",
-      "outreachMessage": "",
-      "notes": "Active conversation",
-      "lastContactDate": "2026-09-07",
-      "createdAt": "2026-09-07T03:51:07.967Z",
-      "stage": "lead-collection"
-    },
-    {
       "id": "3afdd8b3-00c6-49ae-8fc7-cbf097bae883",
       "name": "Soylent Corp 819",
       "platform": "Instagram",
@@ -639,5 +626,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:54:39.127Z"
+  "updatedAt": "2026-09-07T03:54:44.316Z"
 }
