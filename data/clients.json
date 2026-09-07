@@ -632,13 +632,21 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:20.141Z",
-      "stage": "replies",
+      "stage": "follow-ups",
       "activityLog": [
         {
           "id": "05306f7e-59e4-4357-b65c-7a28510ea7fc",
           "type": "created",
           "timestamp": "2026-09-07T03:51:20.141Z",
           "text": "Client created"
+        },
+        {
+          "id": "53df655c-148d-4cc7-8dba-ca0f76817e8e",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T18:53:03.834Z",
+          "fromStage": "replies",
+          "toStage": "follow-ups",
+          "text": "Moved to follow ups"
         }
       ]
     },
@@ -1025,5 +1033,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:51:43.534Z"
+  "updatedAt": "2026-09-07T18:53:03.834Z"
 }
