@@ -11,7 +11,15 @@
       "notes": "Test notes",
       "lastContactDate": "2026-08-23",
       "createdAt": "2026-09-07T02:25:19.242Z",
-      "stage": "meetings"
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "029747cf-5f25-4507-87d0-8126d49bbcad",
+          "type": "created",
+          "timestamp": "2026-09-07T02:25:19.242Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "b9b329f8-4e0c-4830-b5d7-38ba6f00de54",
@@ -24,7 +32,15 @@
       "notes": "Test notes",
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T02:50:43.959Z",
-      "stage": "client"
+      "stage": "client",
+      "activityLog": [
+        {
+          "id": "e6b79bc5-9fb8-4fba-90d8-f24b285964d3",
+          "type": "created",
+          "timestamp": "2026-09-07T02:50:43.959Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "374cae07-4284-4b8b-89ed-f7b18049f1d1",
@@ -37,7 +53,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:29:02.707Z",
-      "stage": "outreach"
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "7d73f871-88cf-4c48-89df-93b6b91d1683",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:02.707Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "5f42591b-6be6-4517-b248-49f48ba9db78",
@@ -50,7 +74,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:03.782Z",
-      "stage": "outreach"
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "79f596c3-0d0d-4dfd-9422-c11150a13429",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:03.782Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "b167ba45-c493-47ce-b396-d38560f94b00",
@@ -63,7 +95,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-25",
       "createdAt": "2026-09-07T03:29:04.786Z",
-      "stage": "outreach"
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "ccc160a3-c0e1-4dd2-bc4b-66bd87233162",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:04.786Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "5042a29a-5dea-497e-90e5-70101829affe",
@@ -76,7 +116,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-28",
       "createdAt": "2026-09-07T03:29:06.043Z",
-      "stage": "outreach"
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "c519b7a1-57a3-4414-a6ab-1d74fcb3dacc",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:06.043Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "01d932ab-7de7-43cc-acdf-a883dd036722",
@@ -89,7 +137,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-24",
       "createdAt": "2026-09-07T03:29:07.081Z",
-      "stage": "follow-ups"
+      "stage": "follow-ups",
+      "activityLog": [
+        {
+          "id": "03930697-0562-4984-ab56-c238cf10be45",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:07.081Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "7a76a108-702d-4a80-b703-03cb238697a0",
@@ -102,7 +158,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-28",
       "createdAt": "2026-09-07T03:29:08.157Z",
-      "stage": "follow-ups"
+      "stage": "follow-ups",
+      "activityLog": [
+        {
+          "id": "37abde29-3c64-482e-bc04-73f0240f2d5c",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:08.157Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "1c6ef227-2aa0-461a-9a83-d4f28d8751a0",
@@ -115,7 +179,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:29:09.164Z",
-      "stage": "follow-ups"
+      "stage": "follow-ups",
+      "activityLog": [
+        {
+          "id": "debaa679-ce98-4b27-8694-a1b2c71128fb",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:09.164Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "8078fd65-251d-4445-b066-108492f3753b",
@@ -128,7 +200,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-26",
       "createdAt": "2026-09-07T03:29:10.221Z",
-      "stage": "replies"
+      "stage": "replies",
+      "activityLog": [
+        {
+          "id": "e0de8e7a-80ab-4bbb-8185-ab2ea4df1bab",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:10.221Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "4a341fd5-57ed-4e60-85f4-4044ae8ebee9",
@@ -141,7 +221,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:11.227Z",
-      "stage": "replies"
+      "stage": "replies",
+      "activityLog": [
+        {
+          "id": "801b2230-f470-4935-a9ac-b025230115bb",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:11.227Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "b3236536-c7da-4c16-b0a6-4ec5e75649d9",
@@ -154,7 +242,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:12.228Z",
-      "stage": "replies"
+      "stage": "replies",
+      "activityLog": [
+        {
+          "id": "6f3aa2b3-9a40-4856-a5fe-101738fe597b",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:12.228Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "5b3a4b76-7744-4bc7-a18e-53b83d319ea6",
@@ -167,7 +263,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-07T03:29:13.253Z",
-      "stage": "qualification"
+      "stage": "qualification",
+      "activityLog": [
+        {
+          "id": "acfd6935-ae1d-4e6d-afa0-b119e2c9f2b7",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:13.253Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "6e1fdb87-4e49-442c-aba5-b23d09423487",
@@ -180,7 +284,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-28",
       "createdAt": "2026-09-07T03:29:14.427Z",
-      "stage": "qualification"
+      "stage": "qualification",
+      "activityLog": [
+        {
+          "id": "6a5d31eb-ecef-421e-8a6b-1fe6dcb7c20e",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:14.427Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "e6452492-2582-4973-b242-72f32c410611",
@@ -193,7 +305,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-27",
       "createdAt": "2026-09-07T03:29:15.544Z",
-      "stage": "qualification"
+      "stage": "qualification",
+      "activityLog": [
+        {
+          "id": "8dfc164d-cf88-42ab-b523-e9cc5351cc2a",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:15.544Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "8d10e5fe-11c2-4040-b4f5-0588689e7b78",
@@ -206,7 +326,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-07T03:29:16.618Z",
-      "stage": "meetings"
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "1846e670-0832-4d21-8a96-5ed89ff7980a",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:16.618Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "72ecc3e2-b954-4950-98a6-f8712b966c28",
@@ -219,7 +347,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-07T03:29:17.702Z",
-      "stage": "meetings"
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "e645e0c4-eaae-44bf-9657-2d5eb976f874",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:17.702Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "f0a4c9ce-3fba-4b87-9eae-5cad319184b4",
@@ -232,7 +368,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-22",
       "createdAt": "2026-09-07T03:29:18.833Z",
-      "stage": "meetings"
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "2880738f-f65d-4e62-aaed-d4c6ec629248",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:18.833Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "7c7108b1-3bd5-483b-9d21-9bf479774b23",
@@ -245,7 +389,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-24",
       "createdAt": "2026-09-07T03:29:19.977Z",
-      "stage": "closing"
+      "stage": "closing",
+      "activityLog": [
+        {
+          "id": "0e9c9d4b-7a9f-4b24-b8c9-a8f9984bf273",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:19.977Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "61a6f3f0-df81-488a-9546-e9f9a5e0b032",
@@ -258,7 +410,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-22",
       "createdAt": "2026-09-07T03:29:21.158Z",
-      "stage": "closing"
+      "stage": "closing",
+      "activityLog": [
+        {
+          "id": "91dca4da-ae2b-4139-94ba-c29d2a7bf6ed",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:21.158Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "22f15bd7-524e-4855-ac78-19f9897ea0f4",
@@ -271,7 +431,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:22.278Z",
-      "stage": "closing"
+      "stage": "closing",
+      "activityLog": [
+        {
+          "id": "26288f9b-2d13-46fa-a37f-4ebde281dbc4",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:22.278Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "acfee5d9-3c8a-473b-aa9d-7a6adfae2007",
@@ -284,7 +452,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-03",
       "createdAt": "2026-09-07T03:29:23.480Z",
-      "stage": "client"
+      "stage": "client",
+      "activityLog": [
+        {
+          "id": "8fb10986-4941-48d2-82e4-a3eb2eaf0ccd",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:23.480Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "db083c10-3829-4edc-b8d6-d7d07a254017",
@@ -297,7 +473,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:24.520Z",
-      "stage": "client"
+      "stage": "client",
+      "activityLog": [
+        {
+          "id": "1fcb28cc-cfa3-42ea-91fe-c62ac794b0fd",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:24.520Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "bb50e1e8-73f2-4caf-9ee6-bafa844ba41d",
@@ -310,7 +494,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:25.832Z",
-      "stage": "client"
+      "stage": "client",
+      "activityLog": [
+        {
+          "id": "a1284ebb-b95e-4966-9409-10ff127f01a1",
+          "type": "created",
+          "timestamp": "2026-09-07T03:29:25.832Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "3afdd8b3-00c6-49ae-8fc7-cbf097bae883",
@@ -323,7 +515,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-24",
       "createdAt": "2026-09-07T03:51:10.432Z",
-      "stage": "outreach"
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "b252af02-6af3-4825-b6c2-bbeda50e64b8",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:10.432Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "1d4fcb9a-e394-455b-93ee-df11d3db481a",
@@ -336,7 +536,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-22",
       "createdAt": "2026-09-07T03:51:11.604Z",
-      "stage": "outreach"
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "762769d0-8aa8-4192-98a7-786f24fbfabb",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:11.604Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "37584dd2-3ff0-4ac0-92ed-5dbf0a016a42",
@@ -349,7 +557,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:12.939Z",
-      "stage": "outreach"
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "36f7c6b8-6778-4b9d-a918-f549869115e6",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:12.939Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "0c1097c2-09f9-4b5d-822f-756961b69d3c",
@@ -362,7 +578,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-05",
       "createdAt": "2026-09-07T03:51:14.103Z",
-      "stage": "follow-ups"
+      "stage": "follow-ups",
+      "activityLog": [
+        {
+          "id": "7e807fe6-42f2-441d-89bd-249144184421",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:14.103Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "e61682be-d347-476d-b70e-8a664deff4ce",
@@ -375,7 +599,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-21",
       "createdAt": "2026-09-07T03:51:15.259Z",
-      "stage": "follow-ups"
+      "stage": "follow-ups",
+      "activityLog": [
+        {
+          "id": "2df75fb5-e1c3-42e2-b2cc-0d133c0bd507",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:15.259Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "bd144e33-1e13-4f59-89bb-b416d20d3e21",
@@ -388,7 +620,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-26",
       "createdAt": "2026-09-07T03:51:16.469Z",
-      "stage": "follow-ups"
+      "stage": "follow-ups",
+      "activityLog": [
+        {
+          "id": "0446ec6c-438a-4f33-b557-a6951fb5cf66",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:16.469Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "8ca640e2-664a-4f34-89c2-c612201d0b6c",
@@ -401,7 +641,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:51:17.647Z",
-      "stage": "replies"
+      "stage": "replies",
+      "activityLog": [
+        {
+          "id": "263b51d4-9124-4c9b-9530-ab2f91aa1d06",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:17.647Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "d8625c13-ec85-4128-8f77-bc06d4ca00a5",
@@ -414,7 +662,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-18",
       "createdAt": "2026-09-07T03:51:18.972Z",
-      "stage": "replies"
+      "stage": "replies",
+      "activityLog": [
+        {
+          "id": "049cdd32-d395-4924-aacc-aeb0bdfd0269",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:18.972Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "82aee181-d5a6-4619-b1fc-84edc35cb43b",
@@ -427,7 +683,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:20.141Z",
-      "stage": "replies"
+      "stage": "replies",
+      "activityLog": [
+        {
+          "id": "05306f7e-59e4-4357-b65c-7a28510ea7fc",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:20.141Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "23020d55-6e0b-460f-82e6-ee04b5da24ea",
@@ -440,7 +704,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-19",
       "createdAt": "2026-09-07T03:51:21.360Z",
-      "stage": "qualification"
+      "stage": "qualification",
+      "activityLog": [
+        {
+          "id": "2566c225-9ca4-4382-a9a1-f3a26d5b2e95",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:21.360Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "5593c27c-996d-447e-8140-55b3cb3e3b43",
@@ -453,7 +725,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:22.633Z",
-      "stage": "qualification"
+      "stage": "qualification",
+      "activityLog": [
+        {
+          "id": "6735fdf1-62be-4361-8bc7-2332b08867bc",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:22.633Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "54577fe3-c30a-4776-b559-aafcadc9878e",
@@ -466,7 +746,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-06",
       "createdAt": "2026-09-07T03:51:23.721Z",
-      "stage": "qualification"
+      "stage": "qualification",
+      "activityLog": [
+        {
+          "id": "4ba48c71-e57f-4664-822c-076820ee45b0",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:23.721Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "2cc88384-bc50-4d6c-8af4-98d17b4cf3f1",
@@ -479,7 +767,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-25",
       "createdAt": "2026-09-07T03:51:24.894Z",
-      "stage": "meetings"
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "ee5cd063-e143-401a-878c-3437f54d412c",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:24.894Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "5670ca8d-f157-4ac2-9bf3-b496a7c2f425",
@@ -492,7 +788,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:26.028Z",
-      "stage": "meetings"
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "5e47e4a7-746d-43c7-94e2-de8f9f5890d3",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:26.028Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "45243764-7c55-4255-bfc6-231a717a87a5",
@@ -505,7 +809,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-18",
       "createdAt": "2026-09-07T03:51:27.326Z",
-      "stage": "meetings"
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "1bc10bf2-a359-4844-9827-9b8ef0e2a888",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:27.326Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "9f34a035-d134-4786-ae93-d416b2d4e797",
@@ -518,7 +830,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:28.594Z",
-      "stage": "closing"
+      "stage": "closing",
+      "activityLog": [
+        {
+          "id": "5a9149a6-b709-4bcc-9f93-8ef3ea7028c4",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:28.594Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "d5c5babb-3ada-40ae-8788-d8a512bd4132",
@@ -531,7 +851,15 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-19",
       "createdAt": "2026-09-07T03:51:30.227Z",
-      "stage": "closing"
+      "stage": "closing",
+      "activityLog": [
+        {
+          "id": "6a6ffe7b-374f-4e52-9ad7-b84288f6dda5",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:30.227Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "27ab6fa8-da41-400d-a310-a2a7031d9e1f",
@@ -544,7 +872,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:51:31.409Z",
-      "stage": "closing"
+      "stage": "closing",
+      "activityLog": [
+        {
+          "id": "71b3f622-9146-4b55-9788-ea86a974f4ce",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:31.409Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "1aa88722-9b54-4cf8-b6d0-acbf1f434dfb",
@@ -557,7 +893,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-06",
       "createdAt": "2026-09-07T03:51:32.746Z",
-      "stage": "client"
+      "stage": "client",
+      "activityLog": [
+        {
+          "id": "ec4f1b8d-91d0-4393-9724-98dd802f4260",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:32.746Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "a3f286aa-70bf-4f58-8e1e-2084b660a049",
@@ -570,7 +914,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-03",
       "createdAt": "2026-09-07T03:51:34.048Z",
-      "stage": "client"
+      "stage": "client",
+      "activityLog": [
+        {
+          "id": "65b1e764-3b7e-4bc8-b4a7-d625cfb6640d",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:34.048Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "653463ea-2f93-4de1-bd4c-52b474d9d786",
@@ -583,7 +935,15 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:51:35.329Z",
-      "stage": "client"
+      "stage": "client",
+      "activityLog": [
+        {
+          "id": "cb68a0e1-d67a-4732-b73e-b456cb85e932",
+          "type": "created",
+          "timestamp": "2026-09-07T03:51:35.329Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "1f14a454-fa5d-4f33-840d-4f4c7e3c55ff",
@@ -596,7 +956,15 @@
       "notes": "",
       "lastContactDate": null,
       "createdAt": "2026-09-07T04:24:39.885Z",
-      "stage": "lead-collection"
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "7cbe9239-02af-4c38-9d31-55f9bde92906",
+          "type": "created",
+          "timestamp": "2026-09-07T04:24:39.885Z",
+          "text": "Client created"
+        }
+      ]
     },
     {
       "id": "3dcef5e3-ed04-432e-985a-c9f0b37de520",
@@ -609,9 +977,38 @@
       "notes": "",
       "lastContactDate": null,
       "createdAt": "2026-09-07T04:33:27.057Z",
-      "stage": "lead-collection"
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "d8c7016a-9f3d-4ba5-b9b1-83301edd5768",
+          "type": "created",
+          "timestamp": "2026-09-07T04:33:27.057Z",
+          "text": "Client created"
+        }
+      ]
+    },
+    {
+      "id": "ca34918c-9bd2-4749-ace3-f7da66b54b4f",
+      "name": "Test 1788803200795 0.4887342854407747",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T17:46:41.284Z",
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "0b95dc80-cddf-4abf-aed0-ef8a1559948a",
+          "type": "created",
+          "timestamp": "2026-09-07T17:46:41.284Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T04:34:24.783Z"
+  "updatedAt": "2026-09-07T17:46:41.284Z"
 }
