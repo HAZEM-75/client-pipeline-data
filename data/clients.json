@@ -977,35 +977,8 @@
           "text": "Client created"
         }
       ]
-    },
-    {
-      "id": "15f7d18d-f99a-4d21-aeb2-7eb3597755ef",
-      "name": "New Name",
-      "platform": "TikTok",
-      "channelUrl": "https://youtube.com/test",
-      "email": "original@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-07T18:49:30.509Z",
-      "stage": "lead-collection",
-      "activityLog": [
-        {
-          "id": "56193877-55ba-4dc5-95b4-f8a54665b2f5",
-          "type": "created",
-          "timestamp": "2026-09-07T18:49:30.509Z",
-          "text": "Client created"
-        },
-        {
-          "id": "dc97dcb8-0bc4-4487-9e73-90e4cbf16c73",
-          "type": "updated",
-          "timestamp": "2026-09-07T18:49:31.741Z",
-          "text": "Updated: Name"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:49:31.741Z"
+  "updatedAt": "2026-09-07T18:49:33.118Z"
 }
