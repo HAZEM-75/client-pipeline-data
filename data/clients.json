@@ -973,8 +973,29 @@
           "text": "Moved to outreach"
         }
       ]
+    },
+    {
+      "id": "db3ebed9-4b92-4705-9a71-8052b3100b80",
+      "name": "Test 1788804963824 0.6919396914759246",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T18:16:04.215Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "8ca39e73-8c48-4a4f-867a-40bb473f5596",
+          "type": "created",
+          "timestamp": "2026-09-07T18:16:04.215Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:16:02.888Z"
+  "updatedAt": "2026-09-07T18:16:04.215Z"
 }
