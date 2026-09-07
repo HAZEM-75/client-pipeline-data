@@ -12,8 +12,21 @@
       "lastContactDate": "2026-08-23",
       "createdAt": "2026-09-07T02:25:19.242Z",
       "stage": "meetings"
+    },
+    {
+      "id": "514c0257-65ae-4dac-ba4f-5c880d768b10",
+      "name": "Test 1788749437027 0.07453211855591657",
+      "platform": "TikTok",
+      "channelUrl": "https://youtube.com/test",
+      "email": "original@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T02:50:37.258Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T02:50:35.953Z"
+  "updatedAt": "2026-09-07T02:50:37.258Z"
 }
