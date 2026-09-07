@@ -505,27 +505,6 @@
       ]
     },
     {
-      "id": "37584dd2-3ff0-4ac0-92ed-5dbf0a016a42",
-      "name": "Test Updated Name",
-      "platform": "Instagram",
-      "channelUrl": "https://instagram.com/channel/33124",
-      "email": "contact1340@instagram.com",
-      "leadSource": "organic",
-      "outreachMessage": "Initial outreach sent, waiting for response...",
-      "notes": "Active conversation",
-      "lastContactDate": "2026-09-02",
-      "createdAt": "2026-09-07T03:51:12.939Z",
-      "stage": "outreach",
-      "activityLog": [
-        {
-          "id": "36f7c6b8-6778-4b9d-a918-f549869115e6",
-          "type": "created",
-          "timestamp": "2026-09-07T03:51:12.939Z",
-          "text": "Client created"
-        }
-      ]
-    },
-    {
       "id": "0c1097c2-09f9-4b5d-822f-756961b69d3c",
       "name": "Prestige Worldwide 631",
       "platform": "Other",
@@ -947,5 +926,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:12:13.828Z"
+  "updatedAt": "2026-09-07T18:12:15.402Z"
 }
