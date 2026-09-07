@@ -63,7 +63,7 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:29:02.707Z",
-      "stage": "lead-collection"
+      "stage": "outreach"
     },
     {
       "id": "5f42591b-6be6-4517-b248-49f48ba9db78",
@@ -340,5 +340,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:40:03.965Z"
+  "updatedAt": "2026-09-07T03:47:51.172Z"
 }
