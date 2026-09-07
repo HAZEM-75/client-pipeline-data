@@ -233,8 +233,21 @@
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-07T03:29:16.618Z",
       "stage": "meetings"
+    },
+    {
+      "id": "72ecc3e2-b954-4950-98a6-f8712b966c28",
+      "name": "Hooli 373",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/96130",
+      "email": "contact1370@instagram.com",
+      "leadSource": "cold-email",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-20",
+      "createdAt": "2026-09-07T03:29:17.702Z",
+      "stage": "meetings"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:16.618Z"
+  "updatedAt": "2026-09-07T03:29:17.702Z"
 }
