@@ -28,7 +28,7 @@
     },
     {
       "id": "b9a7ee7e-3fc5-458c-a7da-10650574477e",
-      "name": "Test 1788749958248 0.3963094073522634",
+      "name": "Updated Name",
       "platform": "YouTube",
       "channelUrl": "https://youtube.com/test",
       "email": "test@example.com",
@@ -37,9 +37,9 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T02:59:18.532Z",
-      "stage": "lead-collection"
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T02:59:18.532Z"
+  "updatedAt": "2026-09-07T02:59:19.470Z"
 }
