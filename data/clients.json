@@ -1308,8 +1308,29 @@
           "text": "Moved to replies"
         }
       ]
+    },
+    {
+      "id": "65ae1e49-2701-432c-93ba-57c887b3a549",
+      "name": "Test 1788817191052 0.3440020256371086",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T21:39:51.320Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "23fc2f17-53c7-481d-836a-140ce65df657",
+          "type": "created",
+          "timestamp": "2026-09-07T21:39:51.320Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T21:39:50.020Z"
+  "updatedAt": "2026-09-07T21:39:51.320Z"
 }
