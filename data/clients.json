@@ -1043,17 +1043,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T18:16:10.491Z",
-      "stage": "lead-collection",
+      "stage": "qualification",
       "activityLog": [
         {
           "id": "45f3bf1f-f0a3-497b-9ab4-117957646811",
           "type": "created",
           "timestamp": "2026-09-07T18:16:10.491Z",
           "text": "Client created"
+        },
+        {
+          "id": "192d5eb6-5716-46fd-be80-77ea5c1f4c5a",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T18:16:11.842Z",
+          "fromStage": "lead-collection",
+          "toStage": "qualification",
+          "text": "Moved to qualification"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:16:10.491Z"
+  "updatedAt": "2026-09-07T18:16:11.842Z"
 }
