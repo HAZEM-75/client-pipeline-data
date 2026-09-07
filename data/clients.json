@@ -1143,8 +1143,29 @@
           "text": "Moved to meetings"
         }
       ]
+    },
+    {
+      "id": "390506f0-0b9f-4a9a-92d5-bc26ad7209dd",
+      "name": "Test 1788806993780 0.041114437095546186",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T18:49:54.224Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "0f51f450-0e34-4369-9e41-6f66edc7ac14",
+          "type": "created",
+          "timestamp": "2026-09-07T18:49:54.224Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:49:52.833Z"
+  "updatedAt": "2026-09-07T18:49:54.224Z"
 }
