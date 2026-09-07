@@ -995,7 +995,7 @@
       "email": "test@example.com",
       "leadSource": "manual",
       "outreachMessage": "Test message",
-      "notes": "Test notes",
+      "notes": "Live smoke test note",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T17:46:58.403Z",
       "stage": "lead-collection",
@@ -1005,6 +1005,12 @@
           "type": "created",
           "timestamp": "2026-09-07T17:46:58.403Z",
           "text": "Client created"
+        },
+        {
+          "id": "b480940f-6a67-4170-99e2-fe8ed795f792",
+          "type": "note",
+          "timestamp": "2026-09-07T18:11:11.783Z",
+          "text": "Live smoke test note"
         }
       ]
     },
@@ -1031,5 +1037,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T17:48:30.205Z"
+  "updatedAt": "2026-09-07T18:11:11.783Z"
 }
