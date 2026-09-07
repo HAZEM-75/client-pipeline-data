@@ -470,7 +470,7 @@
       "email": "contact2029@instagram.com",
       "leadSource": "manual",
       "outreachMessage": "Initial outreach sent, waiting for response...",
-      "notes": "⚠ Stale - needs follow-up!",
+      "notes": "dfdfdf",
       "lastContactDate": "2026-08-24",
       "createdAt": "2026-09-07T03:51:10.432Z",
       "stage": "outreach",
@@ -480,6 +480,12 @@
           "type": "created",
           "timestamp": "2026-09-07T03:51:10.432Z",
           "text": "Client created"
+        },
+        {
+          "id": "84f079fd-7526-43a5-a1ae-f02b9665f309",
+          "type": "note",
+          "timestamp": "2026-09-07T18:28:39.560Z",
+          "text": "dfdfdf"
         }
       ]
     },
@@ -953,5 +959,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:28:25.466Z"
+  "updatedAt": "2026-09-07T18:28:39.560Z"
 }
