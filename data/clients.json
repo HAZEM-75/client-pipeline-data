@@ -259,8 +259,21 @@
       "lastContactDate": "2026-08-22",
       "createdAt": "2026-09-07T03:29:18.833Z",
       "stage": "meetings"
+    },
+    {
+      "id": "7c7108b1-3bd5-483b-9d21-9bf479774b23",
+      "name": "Umbrella Pharma 227",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/84635",
+      "email": "contact6631@other.com",
+      "leadSource": "linkedin",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-24",
+      "createdAt": "2026-09-07T03:29:19.977Z",
+      "stage": "closing"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:18.833Z"
+  "updatedAt": "2026-09-07T03:29:19.977Z"
 }
