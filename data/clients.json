@@ -168,8 +168,21 @@
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:11.227Z",
       "stage": "replies"
+    },
+    {
+      "id": "b3236536-c7da-4c16-b0a6-4ec5e75649d9",
+      "name": "Aperture Science 415",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/40236",
+      "email": "contact3530@instagram.com",
+      "leadSource": "tiktok-scraper",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-02",
+      "createdAt": "2026-09-07T03:29:12.228Z",
+      "stage": "replies"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:11.227Z"
+  "updatedAt": "2026-09-07T03:29:12.228Z"
 }
