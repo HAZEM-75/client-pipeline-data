@@ -1212,17 +1212,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T21:39:35.397Z",
-      "stage": "lead-collection",
+      "stage": "closing",
       "activityLog": [
         {
           "id": "b5e6b901-c532-481e-b1b6-1a9721b61a7d",
           "type": "created",
           "timestamp": "2026-09-07T21:39:35.397Z",
           "text": "Client created"
+        },
+        {
+          "id": "b885e5a1-81c4-43b1-943a-c83d99351230",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T21:39:37.008Z",
+          "fromStage": "lead-collection",
+          "toStage": "closing",
+          "text": "Moved to closing"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T21:39:35.397Z"
+  "updatedAt": "2026-09-07T21:39:37.008Z"
 }
