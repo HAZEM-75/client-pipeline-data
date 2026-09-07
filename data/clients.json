@@ -636,8 +636,21 @@
       "lastContactDate": "2026-09-03",
       "createdAt": "2026-09-07T03:51:34.048Z",
       "stage": "client"
+    },
+    {
+      "id": "653463ea-2f93-4de1-bd4c-52b474d9d786",
+      "name": "Vitec 309",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/75976",
+      "email": "contact2359@instagram.com",
+      "leadSource": "tiktok-scraper",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-04",
+      "createdAt": "2026-09-07T03:51:35.329Z",
+      "stage": "client"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:34.048Z"
+  "updatedAt": "2026-09-07T03:51:35.329Z"
 }
