@@ -324,8 +324,21 @@
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:24.520Z",
       "stage": "client"
+    },
+    {
+      "id": "bb50e1e8-73f2-4caf-9ee6-bafa844ba41d",
+      "name": "Acme Corp 324",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/13243",
+      "email": "contact7407@other.com",
+      "leadSource": "manual",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-07",
+      "createdAt": "2026-09-07T03:29:25.832Z",
+      "stage": "client"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:24.520Z"
+  "updatedAt": "2026-09-07T03:29:25.832Z"
 }
