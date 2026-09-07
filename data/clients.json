@@ -597,8 +597,21 @@
       "lastContactDate": "2026-08-19",
       "createdAt": "2026-09-07T03:51:30.227Z",
       "stage": "closing"
+    },
+    {
+      "id": "27ab6fa8-da41-400d-a310-a2a7031d9e1f",
+      "name": "Stark Industries 954",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/2013",
+      "email": "contact9292@tiktok.com",
+      "leadSource": "referral",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-04",
+      "createdAt": "2026-09-07T03:51:31.409Z",
+      "stage": "closing"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:30.227Z"
+  "updatedAt": "2026-09-07T03:51:31.409Z"
 }
