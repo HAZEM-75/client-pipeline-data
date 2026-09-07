@@ -506,8 +506,21 @@
       "lastContactDate": "2026-08-19",
       "createdAt": "2026-09-07T03:51:21.360Z",
       "stage": "qualification"
+    },
+    {
+      "id": "5593c27c-996d-447e-8140-55b3cb3e3b43",
+      "name": "Hooli 474",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/channel/61508",
+      "email": "contact6694@youtube.com",
+      "leadSource": "webinar",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-02",
+      "createdAt": "2026-09-07T03:51:22.633Z",
+      "stage": "qualification"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:21.360Z"
+  "updatedAt": "2026-09-07T03:51:22.633Z"
 }
