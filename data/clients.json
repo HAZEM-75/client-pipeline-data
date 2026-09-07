@@ -220,8 +220,21 @@
       "lastContactDate": "2026-08-27",
       "createdAt": "2026-09-07T03:29:15.544Z",
       "stage": "qualification"
+    },
+    {
+      "id": "8d10e5fe-11c2-4040-b4f5-0588689e7b78",
+      "name": "Acme Corp 629",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/40033",
+      "email": "contact7068@other.com",
+      "leadSource": "tiktok-scraper",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-20",
+      "createdAt": "2026-09-07T03:29:16.618Z",
+      "stage": "meetings"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:15.544Z"
+  "updatedAt": "2026-09-07T03:29:16.618Z"
 }
