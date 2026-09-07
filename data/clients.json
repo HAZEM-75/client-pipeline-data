@@ -15,7 +15,7 @@
     },
     {
       "id": "254900a3-549d-4189-80a3-6c83097fc4df",
-      "name": "Test 1788748278407 0.5248544364974554",
+      "name": "New Name",
       "platform": "TikTok",
       "channelUrl": "https://youtube.com/test",
       "email": "original@example.com",
@@ -28,5 +28,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T02:31:18.637Z"
+  "updatedAt": "2026-09-07T02:31:19.720Z"
 }
