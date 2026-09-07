@@ -1169,17 +1169,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T19:06:04.096Z",
-      "stage": "lead-collection",
+      "stage": "follow-ups",
       "activityLog": [
         {
           "id": "712e7972-1b00-46d1-a7e0-eeb6446ed9f5",
           "type": "created",
           "timestamp": "2026-09-07T19:06:04.096Z",
           "text": "Client created"
+        },
+        {
+          "id": "35692582-7a43-44d1-b205-5d2550478f9d",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T19:06:05.335Z",
+          "fromStage": "lead-collection",
+          "toStage": "follow-ups",
+          "text": "Moved to follow ups"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T19:06:04.096Z"
+  "updatedAt": "2026-09-07T19:06:05.335Z"
 }
