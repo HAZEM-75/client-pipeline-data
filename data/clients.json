@@ -1227,17 +1227,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T19:06:09.287Z",
-      "stage": "lead-collection",
+      "stage": "qualification",
       "activityLog": [
         {
           "id": "d894c7ca-c76e-4c92-93b3-85c439b9a870",
           "type": "created",
           "timestamp": "2026-09-07T19:06:09.287Z",
           "text": "Client created"
+        },
+        {
+          "id": "45e0cc27-f6dc-46ce-b9bc-138152f0909a",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T19:06:10.541Z",
+          "fromStage": "lead-collection",
+          "toStage": "qualification",
+          "text": "Moved to qualification"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T19:06:09.287Z"
+  "updatedAt": "2026-09-07T19:06:10.541Z"
 }
