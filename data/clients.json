@@ -571,8 +571,21 @@
       "lastContactDate": "2026-08-18",
       "createdAt": "2026-09-07T03:51:27.326Z",
       "stage": "meetings"
+    },
+    {
+      "id": "9f34a035-d134-4786-ae93-d416b2d4e797",
+      "name": "Umbrella Pharma 205",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/50540",
+      "email": "contact3767@instagram.com",
+      "leadSource": "youtube-scraper",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-02",
+      "createdAt": "2026-09-07T03:51:28.594Z",
+      "stage": "closing"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:27.326Z"
+  "updatedAt": "2026-09-07T03:51:28.594Z"
 }
