@@ -194,8 +194,21 @@
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-07T03:29:13.253Z",
       "stage": "qualification"
+    },
+    {
+      "id": "6e1fdb87-4e49-442c-aba5-b23d09423487",
+      "name": "Dunder Mifflin 353",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/51383",
+      "email": "contact38@instagram.com",
+      "leadSource": "tiktok-scraper",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-28",
+      "createdAt": "2026-09-07T03:29:14.427Z",
+      "stage": "qualification"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:13.253Z"
+  "updatedAt": "2026-09-07T03:29:14.427Z"
 }
