@@ -246,8 +246,21 @@
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-07T03:29:17.702Z",
       "stage": "meetings"
+    },
+    {
+      "id": "f0a4c9ce-3fba-4b87-9eae-5cad319184b4",
+      "name": "Acme Corp 840",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/22195",
+      "email": "contact3088@tiktok.com",
+      "leadSource": "organic",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-22",
+      "createdAt": "2026-09-07T03:29:18.833Z",
+      "stage": "meetings"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:17.702Z"
+  "updatedAt": "2026-09-07T03:29:18.833Z"
 }
