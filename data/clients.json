@@ -337,8 +337,21 @@
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:25.832Z",
       "stage": "client"
+    },
+    {
+      "id": "22cb4db8-471e-4bd4-bd88-bf1a620e2c50",
+      "name": "Test 1788752332423 0.1766011819503135",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T03:38:52.784Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:38:51.670Z"
+  "updatedAt": "2026-09-07T03:38:52.784Z"
 }
