@@ -339,19 +339,6 @@
       "stage": "client"
     },
     {
-      "id": "92519a22-7217-46b1-a83c-5ef32cac4dee",
-      "name": "Test 1788752382866 0.1795240467514333",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-08-23",
-      "createdAt": "2026-09-07T03:39:43.220Z",
-      "stage": "outreach"
-    },
-    {
       "id": "3538f2ca-5932-45fa-85f2-2cdbd9ac25f6",
       "name": "Test 1788752384102 0.3000727303604094",
       "platform": "YouTube",
@@ -379,5 +366,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:39:45.599Z"
+  "updatedAt": "2026-09-07T03:39:47.119Z"
 }
