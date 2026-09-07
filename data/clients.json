@@ -944,35 +944,8 @@
           "text": "Client created"
         }
       ]
-    },
-    {
-      "id": "4dcf4f66-5719-4013-83d1-ba88a70ecee8",
-      "name": "Test 1788803218116 0.12695383821811335",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Live smoke test note",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-07T17:46:58.403Z",
-      "stage": "lead-collection",
-      "activityLog": [
-        {
-          "id": "e04ac2e9-99b8-4156-b4f8-18739f825c1c",
-          "type": "created",
-          "timestamp": "2026-09-07T17:46:58.403Z",
-          "text": "Client created"
-        },
-        {
-          "id": "b480940f-6a67-4170-99e2-fe8ed795f792",
-          "type": "note",
-          "timestamp": "2026-09-07T18:11:11.783Z",
-          "text": "Live smoke test note"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:11:46.558Z"
+  "updatedAt": "2026-09-07T18:12:13.828Z"
 }
