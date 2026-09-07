@@ -441,8 +441,21 @@
       "lastContactDate": "2026-08-21",
       "createdAt": "2026-09-07T03:51:15.259Z",
       "stage": "follow-ups"
+    },
+    {
+      "id": "bd144e33-1e13-4f59-89bb-b416d20d3e21",
+      "name": "Weyland-Yutani 858",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/19993",
+      "email": "contact6572@other.com",
+      "leadSource": "organic",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-26",
+      "createdAt": "2026-09-07T03:51:16.469Z",
+      "stage": "follow-ups"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:15.259Z"
+  "updatedAt": "2026-09-07T03:51:16.469Z"
 }
