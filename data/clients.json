@@ -623,8 +623,21 @@
       "lastContactDate": "2026-09-06",
       "createdAt": "2026-09-07T03:51:32.746Z",
       "stage": "client"
+    },
+    {
+      "id": "a3f286aa-70bf-4f58-8e1e-2084b660a049",
+      "name": "Tyrell Corp 910",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/channel/57479",
+      "email": "contact5336@youtube.com",
+      "leadSource": "linkedin",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-03",
+      "createdAt": "2026-09-07T03:51:34.048Z",
+      "stage": "client"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:32.746Z"
+  "updatedAt": "2026-09-07T03:51:34.048Z"
 }
