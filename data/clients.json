@@ -129,8 +129,21 @@
       "lastContactDate": "2026-08-28",
       "createdAt": "2026-09-07T03:29:08.157Z",
       "stage": "follow-ups"
+    },
+    {
+      "id": "1c6ef227-2aa0-461a-9a83-d4f28d8751a0",
+      "name": "LexCorp 139",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/14217",
+      "email": "contact3918@instagram.com",
+      "leadSource": "manual",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-04",
+      "createdAt": "2026-09-07T03:29:09.164Z",
+      "stage": "follow-ups"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:08.157Z"
+  "updatedAt": "2026-09-07T03:29:09.164Z"
 }
