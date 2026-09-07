@@ -298,8 +298,21 @@
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:22.278Z",
       "stage": "closing"
+    },
+    {
+      "id": "acfee5d9-3c8a-473b-aa9d-7a6adfae2007",
+      "name": "Initech 516",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/channel/5244",
+      "email": "contact6475@youtube.com",
+      "leadSource": "linkedin",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-03",
+      "createdAt": "2026-09-07T03:29:23.480Z",
+      "stage": "client"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:22.278Z"
+  "updatedAt": "2026-09-07T03:29:23.480Z"
 }
