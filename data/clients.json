@@ -64,8 +64,21 @@
       "lastContactDate": "2026-08-23",
       "createdAt": "2026-09-07T02:51:26.763Z",
       "stage": "replies"
+    },
+    {
+      "id": "a978ff14-e8bf-423c-b913-be6366d39ac7",
+      "name": "Test 1788749487554 0.6664997527546433",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-08-23",
+      "createdAt": "2026-09-07T02:51:27.809Z",
+      "stage": "qualification"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T02:51:26.763Z"
+  "updatedAt": "2026-09-07T02:51:27.809Z"
 }
