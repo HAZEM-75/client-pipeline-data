@@ -532,8 +532,21 @@
       "lastContactDate": "2026-09-06",
       "createdAt": "2026-09-07T03:51:23.721Z",
       "stage": "qualification"
+    },
+    {
+      "id": "2cc88384-bc50-4d6c-8af4-98d17b4cf3f1",
+      "name": "SMERSH 328",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/channel/50012",
+      "email": "contact7129@youtube.com",
+      "leadSource": "tiktok-scraper",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-25",
+      "createdAt": "2026-09-07T03:51:24.894Z",
+      "stage": "meetings"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:23.721Z"
+  "updatedAt": "2026-09-07T03:51:24.894Z"
 }
