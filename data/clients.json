@@ -27,19 +27,6 @@
       "stage": "lead-collection"
     },
     {
-      "id": "9f67a7de-c97c-477f-b022-d4530326d0ca",
-      "name": "Test 1788750459775 0.6698755256963891",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-08-23",
-      "createdAt": "2026-09-07T03:07:40.046Z",
-      "stage": "follow-ups"
-    },
-    {
       "id": "869248fd-9703-4b69-983a-5362c10e44d5",
       "name": "Test 1788750460982 0.7367375407559583",
       "platform": "YouTube",
@@ -93,5 +80,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:07:45.587Z"
+  "updatedAt": "2026-09-07T03:07:46.648Z"
 }
