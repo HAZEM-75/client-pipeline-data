@@ -389,8 +389,21 @@
       "lastContactDate": "2026-08-24",
       "createdAt": "2026-09-07T03:51:10.432Z",
       "stage": "outreach"
+    },
+    {
+      "id": "1d4fcb9a-e394-455b-93ee-df11d3db481a",
+      "name": "Soylent Corp 643",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/7333",
+      "email": "contact285@other.com",
+      "leadSource": "linkedin",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-22",
+      "createdAt": "2026-09-07T03:51:11.604Z",
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:10.432Z"
+  "updatedAt": "2026-09-07T03:51:11.604Z"
 }
