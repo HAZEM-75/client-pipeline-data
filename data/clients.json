@@ -272,8 +272,21 @@
       "lastContactDate": "2026-08-24",
       "createdAt": "2026-09-07T03:29:19.977Z",
       "stage": "closing"
+    },
+    {
+      "id": "61a6f3f0-df81-488a-9546-e9f9a5e0b032",
+      "name": "Kruger Industrial 441",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/9302",
+      "email": "contact8853@tiktok.com",
+      "leadSource": "youtube-scraper",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-22",
+      "createdAt": "2026-09-07T03:29:21.158Z",
+      "stage": "closing"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:19.977Z"
+  "updatedAt": "2026-09-07T03:29:21.158Z"
 }
