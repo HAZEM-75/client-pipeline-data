@@ -77,8 +77,21 @@
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:03.782Z",
       "stage": "outreach"
+    },
+    {
+      "id": "b167ba45-c493-47ce-b396-d38560f94b00",
+      "name": "Weyland-Yutani 276",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/55006",
+      "email": "contact9470@other.com",
+      "leadSource": "linkedin",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-25",
+      "createdAt": "2026-09-07T03:29:04.786Z",
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:03.782Z"
+  "updatedAt": "2026-09-07T03:29:04.786Z"
 }
