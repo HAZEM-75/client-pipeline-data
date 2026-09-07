@@ -363,8 +363,21 @@
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:51:07.967Z",
       "stage": "lead-collection"
+    },
+    {
+      "id": "4e82f56f-be6c-4103-8b00-753f0f5f8294",
+      "name": "Acme Corp 587",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/62004",
+      "email": "contact6239@tiktok.com",
+      "leadSource": "linkedin",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-05",
+      "createdAt": "2026-09-07T03:51:09.141Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:07.967Z"
+  "updatedAt": "2026-09-07T03:51:09.141Z"
 }
