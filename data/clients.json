@@ -27,19 +27,6 @@
       "stage": "client"
     },
     {
-      "id": "d6ddb9b1-6f2a-4803-adde-f0d6370712fd",
-      "name": "Initech 870",
-      "platform": "TikTok",
-      "channelUrl": "https://tiktok.com/channel/96842",
-      "email": "contact7994@tiktok.com",
-      "leadSource": "referral",
-      "outreachMessage": "",
-      "notes": "Active conversation",
-      "lastContactDate": "2026-09-07",
-      "createdAt": "2026-09-07T03:29:00.466Z",
-      "stage": "lead-collection"
-    },
-    {
       "id": "374cae07-4284-4b8b-89ed-f7b18049f1d1",
       "name": "Soylent Corp 9",
       "platform": "TikTok",
@@ -600,5 +587,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:55:02.262Z"
+  "updatedAt": "2026-09-07T03:55:19.944Z"
 }
