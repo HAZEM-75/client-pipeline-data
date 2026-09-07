@@ -415,8 +415,21 @@
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:12.939Z",
       "stage": "outreach"
+    },
+    {
+      "id": "0c1097c2-09f9-4b5d-822f-756961b69d3c",
+      "name": "Prestige Worldwide 631",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/93892",
+      "email": "contact5193@other.com",
+      "leadSource": "manual",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-05",
+      "createdAt": "2026-09-07T03:51:14.103Z",
+      "stage": "follow-ups"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:12.939Z"
+  "updatedAt": "2026-09-07T03:51:14.103Z"
 }
