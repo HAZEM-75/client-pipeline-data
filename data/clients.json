@@ -1,5 +1,19 @@
 {
-  "clients": [],
+  "clients": [
+    {
+      "id": "329b3801-a5d4-493f-9cfb-99a2250fb588",
+      "name": "Test 1788747901767 0.5626094042956127",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T02:25:02.032Z",
+      "stage": "lead-collection"
+    }
+  ],
   "version": 1,
-  "updatedAt": "2026-09-07T02:25:00.591Z"
+  "updatedAt": "2026-09-07T02:25:02.032Z"
 }
