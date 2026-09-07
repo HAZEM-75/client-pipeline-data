@@ -14,19 +14,6 @@
       "stage": "meetings"
     },
     {
-      "id": "104cdfe2-69cb-4288-b57d-cdcc03a957f6",
-      "name": "Test 1788748260815 0.9349996285689673",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-07T02:31:01.081Z",
-      "stage": "lead-collection"
-    },
-    {
       "id": "f1b5585c-d8d0-408b-8ce5-91ea75ee0cc9",
       "name": "Test 1788748261848 0.9016406511456067",
       "platform": "YouTube",
@@ -41,5 +28,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T02:31:02.099Z"
+  "updatedAt": "2026-09-07T02:31:03.160Z"
 }
