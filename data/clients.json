@@ -1259,17 +1259,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T21:17:28.089Z",
-      "stage": "lead-collection",
+      "stage": "replies",
       "activityLog": [
         {
           "id": "a6123bd3-fdbb-4c5b-92f7-84b1e344ef9d",
           "type": "created",
           "timestamp": "2026-09-07T21:17:28.089Z",
           "text": "Client created"
+        },
+        {
+          "id": "5c79ed63-e596-4e1a-b634-7f4800b35afc",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T21:17:29.330Z",
+          "fromStage": "lead-collection",
+          "toStage": "replies",
+          "text": "Moved to replies"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T21:17:28.089Z"
+  "updatedAt": "2026-09-07T21:17:29.330Z"
 }
