@@ -155,8 +155,21 @@
       "lastContactDate": "2026-08-26",
       "createdAt": "2026-09-07T03:29:10.221Z",
       "stage": "replies"
+    },
+    {
+      "id": "4a341fd5-57ed-4e60-85f4-4044ae8ebee9",
+      "name": "Vitec 509",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/53114",
+      "email": "contact4868@other.com",
+      "leadSource": "organic",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-02",
+      "createdAt": "2026-09-07T03:29:11.227Z",
+      "stage": "replies"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:10.221Z"
+  "updatedAt": "2026-09-07T03:29:11.227Z"
 }
