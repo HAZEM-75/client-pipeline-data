@@ -1013,29 +1013,8 @@
           "text": "Live smoke test note"
         }
       ]
-    },
-    {
-      "id": "2349700c-16c1-4c59-a6a1-2a7c6d5772d5",
-      "name": "Test 1788803299564 0.5900530126430238",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-08-23",
-      "createdAt": "2026-09-07T17:48:19.898Z",
-      "stage": "qualification",
-      "activityLog": [
-        {
-          "id": "388da16c-1293-47c5-9f32-c06516696e23",
-          "type": "created",
-          "timestamp": "2026-09-07T17:48:19.898Z",
-          "text": "Client created"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:11:11.783Z"
+  "updatedAt": "2026-09-07T18:11:43.722Z"
 }
