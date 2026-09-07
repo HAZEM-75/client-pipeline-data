@@ -64,8 +64,21 @@
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:29:02.707Z",
       "stage": "lead-collection"
+    },
+    {
+      "id": "5f42591b-6be6-4517-b248-49f48ba9db78",
+      "name": "Soylent Corp 371",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/15541",
+      "email": "contact7726@tiktok.com",
+      "leadSource": "webinar",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-02",
+      "createdAt": "2026-09-07T03:29:03.782Z",
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:02.707Z"
+  "updatedAt": "2026-09-07T03:29:03.782Z"
 }
