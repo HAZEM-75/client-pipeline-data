@@ -558,8 +558,21 @@
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:51:26.028Z",
       "stage": "meetings"
+    },
+    {
+      "id": "45243764-7c55-4255-bfc6-231a717a87a5",
+      "name": "Globex Inc 710",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/channel/36660",
+      "email": "contact621@youtube.com",
+      "leadSource": "organic",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-18",
+      "createdAt": "2026-09-07T03:51:27.326Z",
+      "stage": "meetings"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:26.028Z"
+  "updatedAt": "2026-09-07T03:51:27.326Z"
 }
