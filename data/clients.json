@@ -1200,8 +1200,29 @@
           "text": "Moved to outreach"
         }
       ]
+    },
+    {
+      "id": "75b1f916-25cc-4486-9f6e-c5be1f274ab8",
+      "name": "Test 1788817171083 0.6217976038833144",
+      "platform": "TikTok",
+      "channelUrl": "https://youtube.com/test",
+      "email": "original@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T21:39:31.336Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "fe0a261d-d1a8-4d3b-9963-b3ac3ea7f4fa",
+          "type": "created",
+          "timestamp": "2026-09-07T21:39:31.336Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T21:39:29.769Z"
+  "updatedAt": "2026-09-07T21:39:31.336Z"
 }
