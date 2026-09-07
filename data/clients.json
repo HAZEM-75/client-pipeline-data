@@ -90,8 +90,21 @@
       "lastContactDate": "2026-08-25",
       "createdAt": "2026-09-07T03:29:04.786Z",
       "stage": "outreach"
+    },
+    {
+      "id": "5042a29a-5dea-497e-90e5-70101829affe",
+      "name": "SPECTRE 609",
+      "platform": "Other",
+      "channelUrl": "https://other.com/channel/56704",
+      "email": "contact2576@other.com",
+      "leadSource": "youtube-scraper",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-28",
+      "createdAt": "2026-09-07T03:29:06.043Z",
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:04.786Z"
+  "updatedAt": "2026-09-07T03:29:06.043Z"
 }
