@@ -337,21 +337,8 @@
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:25.832Z",
       "stage": "client"
-    },
-    {
-      "id": "81ec51cb-042d-4ed2-a268-932f6aaddf18",
-      "name": "New Name",
-      "platform": "TikTok",
-      "channelUrl": "https://youtube.com/test",
-      "email": "original@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-07T03:38:56.659Z",
-      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:38:57.861Z"
+  "updatedAt": "2026-09-07T03:38:58.998Z"
 }
