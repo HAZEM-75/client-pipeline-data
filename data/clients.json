@@ -1006,29 +1006,8 @@
           "text": "Moved to closing"
         }
       ]
-    },
-    {
-      "id": "c3733f4c-188d-40f1-8938-4b28eae5eed4",
-      "name": "Test 1788807035561 0.21611614822604164",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-08-23",
-      "createdAt": "2026-09-07T18:50:36.198Z",
-      "stage": "closing",
-      "activityLog": [
-        {
-          "id": "5fb16930-5baf-4847-a4d8-4851f19f238a",
-          "type": "created",
-          "timestamp": "2026-09-07T18:50:36.198Z",
-          "text": "Client created"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:50:43.200Z"
+  "updatedAt": "2026-09-07T18:50:44.288Z"
 }
