@@ -402,8 +402,21 @@
       "lastContactDate": "2026-08-22",
       "createdAt": "2026-09-07T03:51:11.604Z",
       "stage": "outreach"
+    },
+    {
+      "id": "37584dd2-3ff0-4ac0-92ed-5dbf0a016a42",
+      "name": "Dunder Mifflin 389",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/33124",
+      "email": "contact1340@instagram.com",
+      "leadSource": "organic",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-02",
+      "createdAt": "2026-09-07T03:51:12.939Z",
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:11.604Z"
+  "updatedAt": "2026-09-07T03:51:12.939Z"
 }
