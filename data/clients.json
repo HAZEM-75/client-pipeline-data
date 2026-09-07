@@ -1014,17 +1014,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-07T18:16:07.830Z",
-      "stage": "lead-collection",
+      "stage": "replies",
       "activityLog": [
         {
           "id": "37d9ad40-ea53-4cc4-92a2-d0081a1cc071",
           "type": "created",
           "timestamp": "2026-09-07T18:16:07.830Z",
           "text": "Client created"
+        },
+        {
+          "id": "b8980165-bf14-4734-b729-04b1e23a5e52",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T18:16:09.129Z",
+          "fromStage": "lead-collection",
+          "toStage": "replies",
+          "text": "Moved to replies"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:16:07.830Z"
+  "updatedAt": "2026-09-07T18:16:09.129Z"
 }
