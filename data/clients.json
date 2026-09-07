@@ -376,8 +376,21 @@
       "lastContactDate": "2026-09-05",
       "createdAt": "2026-09-07T03:51:09.141Z",
       "stage": "lead-collection"
+    },
+    {
+      "id": "3afdd8b3-00c6-49ae-8fc7-cbf097bae883",
+      "name": "Soylent Corp 819",
+      "platform": "Instagram",
+      "channelUrl": "https://instagram.com/channel/40734",
+      "email": "contact2029@instagram.com",
+      "leadSource": "manual",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "⚠ Stale - needs follow-up!",
+      "lastContactDate": "2026-08-24",
+      "createdAt": "2026-09-07T03:51:10.432Z",
+      "stage": "outreach"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:09.141Z"
+  "updatedAt": "2026-09-07T03:51:10.432Z"
 }
