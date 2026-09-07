@@ -968,7 +968,7 @@
       "notes": "",
       "lastContactDate": null,
       "createdAt": "2026-09-07T18:29:01.734Z",
-      "stage": "outreach",
+      "stage": "lead-collection",
       "activityLog": [
         {
           "id": "53c99170-472e-42ab-9904-6a1a95cba59a",
@@ -983,6 +983,14 @@
           "fromStage": "lead-collection",
           "toStage": "outreach",
           "text": "Moved to outreach"
+        },
+        {
+          "id": "15e21ed7-6d9c-4411-8453-701ba06fcac3",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T18:51:43.534Z",
+          "fromStage": "outreach",
+          "toStage": "lead-collection",
+          "text": "Moved to lead collection"
         }
       ]
     },
@@ -1017,5 +1025,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:51:41.780Z"
+  "updatedAt": "2026-09-07T18:51:43.534Z"
 }
