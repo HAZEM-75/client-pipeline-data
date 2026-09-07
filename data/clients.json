@@ -1028,8 +1028,29 @@
           "text": "Client created"
         }
       ]
+    },
+    {
+      "id": "21e4f04c-d812-420f-afc6-9495309c2121",
+      "name": "Test 1788805039706 0.5680545714718079",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-08-23",
+      "createdAt": "2026-09-07T18:17:20.089Z",
+      "stage": "meetings",
+      "activityLog": [
+        {
+          "id": "f8130728-510f-4ac5-b704-8d68e8967499",
+          "type": "created",
+          "timestamp": "2026-09-07T18:17:20.089Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:17:18.737Z"
+  "updatedAt": "2026-09-07T18:17:20.089Z"
 }
