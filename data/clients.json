@@ -1337,8 +1337,29 @@
           "text": "Moved to qualification"
         }
       ]
+    },
+    {
+      "id": "b6f227cd-2018-4fbc-9e8e-542f4a0a9cf5",
+      "name": "Test 1788817194086 0.7647180147212405",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-07T21:39:54.540Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "66de8300-3141-41cc-8f01-1f8111ac5988",
+          "type": "created",
+          "timestamp": "2026-09-07T21:39:54.540Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T21:39:52.919Z"
+  "updatedAt": "2026-09-07T21:39:54.540Z"
 }
