@@ -454,8 +454,21 @@
       "lastContactDate": "2026-08-26",
       "createdAt": "2026-09-07T03:51:16.469Z",
       "stage": "follow-ups"
+    },
+    {
+      "id": "8ca640e2-664a-4f34-89c2-c612201d0b6c",
+      "name": "Tyrell Corp 730",
+      "platform": "TikTok",
+      "channelUrl": "https://tiktok.com/channel/16862",
+      "email": "contact6680@tiktok.com",
+      "leadSource": "manual",
+      "outreachMessage": "Initial outreach sent, waiting for response...",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-04",
+      "createdAt": "2026-09-07T03:51:17.647Z",
+      "stage": "replies"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:51:16.469Z"
+  "updatedAt": "2026-09-07T03:51:17.647Z"
 }
