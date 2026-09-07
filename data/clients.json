@@ -968,13 +968,21 @@
       "notes": "",
       "lastContactDate": null,
       "createdAt": "2026-09-07T18:29:01.734Z",
-      "stage": "lead-collection",
+      "stage": "outreach",
       "activityLog": [
         {
           "id": "53c99170-472e-42ab-9904-6a1a95cba59a",
           "type": "created",
           "timestamp": "2026-09-07T18:29:01.734Z",
           "text": "Client created"
+        },
+        {
+          "id": "08db115a-5c8b-4045-b5a0-45ce98cbb433",
+          "type": "stage-change",
+          "timestamp": "2026-09-07T18:51:41.780Z",
+          "fromStage": "lead-collection",
+          "toStage": "outreach",
+          "text": "Moved to outreach"
         }
       ]
     },
@@ -1009,5 +1017,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:50:44.288Z"
+  "updatedAt": "2026-09-07T18:51:41.780Z"
 }
