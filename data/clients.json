@@ -38,8 +38,21 @@
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:00.466Z",
       "stage": "lead-collection"
+    },
+    {
+      "id": "d54f5d6a-4270-4fb1-a38e-401fb0e7d761",
+      "name": "Hooli 643",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/channel/98172",
+      "email": "contact3056@youtube.com",
+      "leadSource": "cold-email",
+      "outreachMessage": "",
+      "notes": "Active conversation",
+      "lastContactDate": "2026-09-07",
+      "createdAt": "2026-09-07T03:29:01.726Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T03:29:00.466Z"
+  "updatedAt": "2026-09-07T03:29:01.726Z"
 }
