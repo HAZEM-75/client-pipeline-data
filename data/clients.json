@@ -923,29 +923,8 @@
           "text": "Client created"
         }
       ]
-    },
-    {
-      "id": "76a8451b-1e13-47d0-8a84-70d4820b1b10",
-      "name": "Smoke Import Fallback",
-      "platform": "Instagram",
-      "channelUrl": "",
-      "email": "fallback@test.local",
-      "leadSource": "",
-      "outreachMessage": "",
-      "notes": "",
-      "lastContactDate": null,
-      "createdAt": "2026-09-07T18:13:20.511Z",
-      "stage": "lead-collection",
-      "activityLog": [
-        {
-          "id": "e780a791-cb02-4af3-b516-3daf43e80b22",
-          "type": "imported",
-          "timestamp": "2026-09-07T18:13:20.511Z",
-          "text": "Imported from spreadsheet"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T18:14:19.822Z"
+  "updatedAt": "2026-09-07T18:14:32.310Z"
 }
