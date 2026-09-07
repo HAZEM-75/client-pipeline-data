@@ -584,8 +584,21 @@
       "lastContactDate": "2026-09-04",
       "createdAt": "2026-09-07T03:51:35.329Z",
       "stage": "client"
+    },
+    {
+      "id": "1f14a454-fa5d-4f33-840d-4f4c7e3c55ff",
+      "name": "has",
+      "platform": "YouTube",
+      "channelUrl": "https://opencode.ai/docs/go/#where-can-i-use-it",
+      "email": "mezosemo555@gmail.com",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-07T04:24:39.885Z",
+      "stage": "lead-collection"
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-07T04:13:46.662Z"
+  "updatedAt": "2026-09-07T04:24:39.885Z"
 }
