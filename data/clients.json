@@ -531,7 +531,7 @@
       "leadSource": "manual",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "Active conversation",
-      "lastContactDate": "2026-09-05",
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:51:14.103Z",
       "stage": "follow-ups",
       "activityLog": [
@@ -540,6 +540,12 @@
           "type": "created",
           "timestamp": "2026-09-07T03:51:14.103Z",
           "text": "Client created"
+        },
+        {
+          "id": "12493088-56eb-4fe3-adc1-2e130af9aac3",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:49:15.405Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1286,5 +1292,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:49:14.094Z"
+  "updatedAt": "2026-09-08T00:49:15.405Z"
 }
