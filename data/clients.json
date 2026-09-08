@@ -1719,17 +1719,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T06:10:10.084Z",
-      "stage": "lead-collection",
+      "stage": "follow-ups",
       "activityLog": [
         {
           "id": "ebcef30f-4314-47dd-8466-10f23d1cbe64",
           "type": "created",
           "timestamp": "2026-09-08T06:10:10.084Z",
           "text": "Client created"
+        },
+        {
+          "id": "beb3cd07-12e0-4a26-bde5-04a8cac49c20",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T06:10:11.485Z",
+          "fromStage": "lead-collection",
+          "toStage": "follow-ups",
+          "text": "Moved to follow ups"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:10:10.084Z"
+  "updatedAt": "2026-09-08T06:10:11.485Z"
 }
