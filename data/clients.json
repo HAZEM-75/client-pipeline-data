@@ -585,13 +585,21 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-07",
       "createdAt": "2026-09-07T03:29:24.520Z",
-      "stage": "client",
+      "stage": "closing",
       "activityLog": [
         {
           "id": "1fcb28cc-cfa3-42ea-91fe-c62ac794b0fd",
           "type": "created",
           "timestamp": "2026-09-07T03:29:24.520Z",
           "text": "Client created"
+        },
+        {
+          "id": "9a822e8f-9dca-4111-9261-77bc75a139c9",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T16:38:22.605Z",
+          "fromStage": "client",
+          "toStage": "closing",
+          "text": "Moved to closing"
         }
       ],
       "followUpCount": 0
@@ -1794,5 +1802,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T16:38:21.070Z"
+  "updatedAt": "2026-09-08T16:38:22.605Z"
 }
