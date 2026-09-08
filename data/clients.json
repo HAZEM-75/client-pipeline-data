@@ -1806,17 +1806,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T06:11:41.465Z",
-      "stage": "lead-collection",
+      "stage": "meetings",
       "activityLog": [
         {
           "id": "5e1ea095-ff66-4923-b126-5ee344a2ab27",
           "type": "created",
           "timestamp": "2026-09-08T06:11:41.465Z",
           "text": "Client created"
+        },
+        {
+          "id": "eac6967f-65ae-4bb5-a983-af3701a27585",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T06:11:42.778Z",
+          "fromStage": "lead-collection",
+          "toStage": "meetings",
+          "text": "Moved to meetings"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:11:41.465Z"
+  "updatedAt": "2026-09-08T06:11:42.778Z"
 }
