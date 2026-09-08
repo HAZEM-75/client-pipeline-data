@@ -501,7 +501,7 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-02",
       "createdAt": "2026-09-07T03:29:22.278Z",
-      "stage": "meetings",
+      "stage": "closing",
       "activityLog": [
         {
           "id": "26288f9b-2d13-46fa-a37f-4ebde281dbc4",
@@ -532,6 +532,14 @@
           "fromStage": "closing",
           "toStage": "meetings",
           "text": "Moved to meetings"
+        },
+        {
+          "id": "abc5c714-2b6a-4e06-99a4-610553a7f788",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T16:38:19.422Z",
+          "fromStage": "meetings",
+          "toStage": "closing",
+          "text": "Moved to closing"
         }
       ],
       "followUpCount": 0
@@ -1778,5 +1786,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T16:38:17.518Z"
+  "updatedAt": "2026-09-08T16:38:19.422Z"
 }
