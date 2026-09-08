@@ -1439,8 +1439,29 @@
           "text": "Client created"
         }
       ]
+    },
+    {
+      "id": "91345eb0-6a18-4e26-b4d4-63dba130d062",
+      "name": "hard-1788827497632-8",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "hard-1788827497632-8@example.com",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-08T00:31:48.640Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "2eef719b-a1f4-4f09-9b80-53342fff0f20",
+          "type": "created",
+          "timestamp": "2026-09-08T00:31:48.640Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:31:47.299Z"
+  "updatedAt": "2026-09-08T00:31:48.640Z"
 }
