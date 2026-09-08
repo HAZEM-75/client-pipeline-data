@@ -1709,36 +1709,8 @@
         }
       ],
       "followUpCount": 0
-    },
-    {
-      "id": "f3d89f68-b633-447e-b27a-4c039896e6e8",
-      "name": "VerifyQualStage2",
-      "platform": "YouTube",
-      "channelUrl": "",
-      "email": "verify-qual2@test.local",
-      "leadSource": "",
-      "outreachMessage": "",
-      "notes": "",
-      "lastContactDate": "2026-09-08",
-      "createdAt": "2026-09-08T06:55:48.291Z",
-      "stage": "qualification",
-      "followUpCount": 0,
-      "activityLog": [
-        {
-          "id": "85695e36-56cd-4d79-b4fe-495dc772c52e",
-          "type": "created",
-          "timestamp": "2026-09-08T06:55:48.291Z",
-          "text": "Client created"
-        },
-        {
-          "id": "59297013-aeca-4d48-94ba-416e27308abc",
-          "type": "contacted",
-          "timestamp": "2026-09-08T06:55:51.635Z",
-          "text": "Marked as contacted"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:55:53.425Z"
+  "updatedAt": "2026-09-08T06:55:54.756Z"
 }
