@@ -1457,37 +1457,8 @@
           "text": "Marked as contacted"
         }
       ]
-    },
-    {
-      "id": "279f5eb3-5967-4881-b17f-6a95929883d7",
-      "name": "Test 1788839142494 0.40625443304746844",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-08T03:45:42.800Z",
-      "stage": "client",
-      "activityLog": [
-        {
-          "id": "acebb36f-e732-43e2-9e64-6980ca7273c6",
-          "type": "created",
-          "timestamp": "2026-09-08T03:45:42.800Z",
-          "text": "Client created"
-        },
-        {
-          "id": "12f4d748-383c-4f08-97b8-c64ee8d4db2a",
-          "type": "stage-change",
-          "timestamp": "2026-09-08T03:45:44.359Z",
-          "fromStage": "lead-collection",
-          "toStage": "client",
-          "text": "Moved to client"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T03:45:53.692Z"
+  "updatedAt": "2026-09-08T03:45:55.054Z"
 }
