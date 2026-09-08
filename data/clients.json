@@ -291,13 +291,21 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-08-20",
       "createdAt": "2026-09-07T03:29:13.253Z",
-      "stage": "qualification",
+      "stage": "follow-ups",
       "activityLog": [
         {
           "id": "acfd6935-ae1d-4e6d-afa0-b119e2c9f2b7",
           "type": "created",
           "timestamp": "2026-09-07T03:29:13.253Z",
           "text": "Client created"
+        },
+        {
+          "id": "ce6c6d5c-f69c-4f04-8eb8-ad18d26c57b1",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T07:02:54.218Z",
+          "fromStage": "qualification",
+          "toStage": "follow-ups",
+          "text": "Moved to follow ups"
         }
       ],
       "followUpCount": 0
@@ -1712,5 +1720,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:55:54.756Z"
+  "updatedAt": "2026-09-08T07:02:54.218Z"
 }
