@@ -1625,37 +1625,8 @@
           "text": "Moved to follow ups"
         }
       ]
-    },
-    {
-      "id": "7eb10220-d13a-431a-bab2-faea168138cb",
-      "name": "Updated Name",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-08T05:12:28.137Z",
-      "stage": "outreach",
-      "activityLog": [
-        {
-          "id": "c6dd5b31-a637-4d6a-9d45-e58aeb9bb640",
-          "type": "created",
-          "timestamp": "2026-09-08T05:12:28.137Z",
-          "text": "Client created"
-        },
-        {
-          "id": "da3161fd-7db3-4bf2-aeaf-4f005665bdd9",
-          "type": "stage-change",
-          "timestamp": "2026-09-08T05:12:29.464Z",
-          "fromStage": "lead-collection",
-          "toStage": "outreach",
-          "text": "Moved to outreach"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T05:12:29.464Z"
+  "updatedAt": "2026-09-08T05:12:31.059Z"
 }
