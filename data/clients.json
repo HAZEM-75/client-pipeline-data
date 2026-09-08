@@ -1628,7 +1628,7 @@
     },
     {
       "id": "36e265b7-21b0-4b0c-9b73-37661879a165",
-      "name": "Test 1788844352369 0.5283410248362291",
+      "name": "New Name",
       "platform": "TikTok",
       "channelUrl": "https://youtube.com/test",
       "email": "original@example.com",
@@ -1644,10 +1644,16 @@
           "type": "created",
           "timestamp": "2026-09-08T05:12:32.782Z",
           "text": "Client created"
+        },
+        {
+          "id": "ac906728-a6d9-4ceb-bc97-ee7e32a800da",
+          "type": "updated",
+          "timestamp": "2026-09-08T05:12:34.206Z",
+          "text": "Updated: Name"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T05:12:32.782Z"
+  "updatedAt": "2026-09-08T05:12:34.206Z"
 }
