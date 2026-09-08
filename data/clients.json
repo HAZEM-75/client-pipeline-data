@@ -198,7 +198,7 @@
       "leadSource": "tiktok-scraper",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "⚠ Stale - needs follow-up!",
-      "lastContactDate": "2026-08-26",
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:29:10.221Z",
       "stage": "replies",
       "activityLog": [
@@ -207,6 +207,12 @@
           "type": "created",
           "timestamp": "2026-09-07T03:29:10.221Z",
           "text": "Client created"
+        },
+        {
+          "id": "a479f64c-4171-4668-9fb8-cea0e0c54620",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:53:13.469Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1370,5 +1376,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:53:12.146Z"
+  "updatedAt": "2026-09-08T00:53:13.469Z"
 }
