@@ -1273,33 +1273,6 @@
       ]
     },
     {
-      "id": "625cafa4-699c-41fc-b0d8-0a805a84fc89",
-      "name": "conflict-1788827929117-0",
-      "platform": "YouTube",
-      "channelUrl": "",
-      "email": "conflict-1788827929117-0@example.com",
-      "leadSource": "",
-      "outreachMessage": "",
-      "notes": "",
-      "lastContactDate": "2026-09-08",
-      "createdAt": "2026-09-08T00:38:49.676Z",
-      "stage": "lead-collection",
-      "activityLog": [
-        {
-          "id": "f6d1700f-88cd-4002-b4cd-8ca0a0126776",
-          "type": "created",
-          "timestamp": "2026-09-08T00:38:49.676Z",
-          "text": "Client created"
-        },
-        {
-          "id": "d28de821-b6b8-415b-853d-74e4f7cdcb19",
-          "type": "contacted",
-          "timestamp": "2026-09-08T00:38:58.328Z",
-          "text": "Marked as contacted"
-        }
-      ]
-    },
-    {
       "id": "47774449-e48d-4828-8108-6f06ab107e24",
       "name": "conflict-1788827929117-1",
       "platform": "YouTube",
@@ -1436,5 +1409,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:39:05.255Z"
+  "updatedAt": "2026-09-08T00:39:06.892Z"
 }
