@@ -1457,8 +1457,29 @@
           "text": "Marked as contacted"
         }
       ]
+    },
+    {
+      "id": "e277eedc-b745-480e-95d1-f18121181ac7",
+      "name": "Test 1788839168500 0.9626565217166417",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-08-24",
+      "createdAt": "2026-09-08T03:46:08.748Z",
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "36bb46ad-a837-4f98-9a1a-2723fd756651",
+          "type": "created",
+          "timestamp": "2026-09-08T03:46:08.748Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T03:46:07.118Z"
+  "updatedAt": "2026-09-08T03:46:08.748Z"
 }
