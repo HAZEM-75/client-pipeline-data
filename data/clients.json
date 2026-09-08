@@ -1457,8 +1457,29 @@
           "text": "Marked as contacted"
         }
       ]
+    },
+    {
+      "id": "1a2afab7-52c8-40e1-b887-e3c2a6713b20",
+      "name": "Test 1788839114392 0.48797160101068715",
+      "platform": "TikTok",
+      "channelUrl": "https://youtube.com/test",
+      "email": "original@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-08T03:45:14.718Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "8bb1e062-8be1-4bca-9729-0a1afcb03f6f",
+          "type": "created",
+          "timestamp": "2026-09-08T03:45:14.718Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T03:45:13.044Z"
+  "updatedAt": "2026-09-08T03:45:14.718Z"
 }
