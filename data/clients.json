@@ -1334,8 +1334,29 @@
           "text": "Client created"
         }
       ]
+    },
+    {
+      "id": "367ce9da-b5e0-40a0-a14c-8286564cee23",
+      "name": "Test 1788827142889 0.28832021021364207",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-08-24",
+      "createdAt": "2026-09-08T00:25:43.309Z",
+      "stage": "qualification",
+      "activityLog": [
+        {
+          "id": "937cf183-4c03-45f7-bf91-650c823c93b3",
+          "type": "created",
+          "timestamp": "2026-09-08T00:25:43.309Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:25:41.984Z"
+  "updatedAt": "2026-09-08T00:25:43.309Z"
 }
