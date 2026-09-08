@@ -1839,7 +1839,7 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T07:17:54.888Z",
-      "stage": "lead-collection",
+      "stage": "replies",
       "followUpCount": 0,
       "activityLog": [
         {
@@ -1847,10 +1847,18 @@
           "type": "created",
           "timestamp": "2026-09-08T07:17:54.888Z",
           "text": "Client created"
+        },
+        {
+          "id": "e474cf03-5e7c-43d5-8693-e993833d07a9",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T07:17:56.197Z",
+          "fromStage": "lead-collection",
+          "toStage": "replies",
+          "text": "Moved to replies"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T07:17:54.888Z"
+  "updatedAt": "2026-09-08T07:17:56.197Z"
 }
