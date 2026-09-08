@@ -1422,7 +1422,7 @@
       "leadSource": "",
       "outreachMessage": "",
       "notes": "",
-      "lastContactDate": null,
+      "lastContactDate": "2026-08-19",
       "createdAt": "2026-09-08T01:03:59.011Z",
       "stage": "outreach",
       "activityLog": [
@@ -1431,10 +1431,16 @@
           "type": "created",
           "timestamp": "2026-09-08T01:03:59.011Z",
           "text": "Client created"
+        },
+        {
+          "id": "07700c2e-46fa-49f4-933c-696812cbe923",
+          "type": "contacted",
+          "timestamp": "2026-09-08T01:04:00.461Z",
+          "text": "Marked as contacted"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T01:03:59.011Z"
+  "updatedAt": "2026-09-08T01:04:00.461Z"
 }
