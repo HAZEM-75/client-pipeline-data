@@ -1292,8 +1292,29 @@
           "text": "Client created"
         }
       ]
+    },
+    {
+      "id": "426156b1-89cc-4614-9eb6-587c2db273ff",
+      "name": "conflict-1788827263471-1",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "conflict-1788827263471-1@example.com",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-08T00:27:45.700Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "8cdb39ac-8efe-4e55-9128-7ca15474e4a6",
+          "type": "created",
+          "timestamp": "2026-09-08T00:27:45.700Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:27:44.118Z"
+  "updatedAt": "2026-09-08T00:27:45.700Z"
 }
