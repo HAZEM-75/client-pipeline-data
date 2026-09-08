@@ -702,7 +702,7 @@
       "leadSource": "youtube-scraper",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "Active conversation",
-      "lastContactDate": "2026-09-02",
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:51:20.141Z",
       "stage": "replies",
       "activityLog": [
@@ -727,6 +727,12 @@
           "fromStage": "follow-ups",
           "toStage": "replies",
           "text": "Moved to replies"
+        },
+        {
+          "id": "5b11daf1-14de-44fd-bf67-05e8e9256f38",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:52:52.489Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1340,5 +1346,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:52:51.227Z"
+  "updatedAt": "2026-09-08T00:52:52.489Z"
 }
