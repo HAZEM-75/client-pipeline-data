@@ -1397,17 +1397,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T01:00:49.322Z",
-      "stage": "lead-collection",
+      "stage": "closing",
       "activityLog": [
         {
           "id": "74662615-c2d2-4ca8-9981-6733523eae89",
           "type": "created",
           "timestamp": "2026-09-08T01:00:49.322Z",
           "text": "Client created"
+        },
+        {
+          "id": "48fa1017-8be7-4ddc-8d47-15067210a58d",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T01:00:50.786Z",
+          "fromStage": "lead-collection",
+          "toStage": "closing",
+          "text": "Moved to closing"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T01:00:49.322Z"
+  "updatedAt": "2026-09-08T01:00:50.786Z"
 }
