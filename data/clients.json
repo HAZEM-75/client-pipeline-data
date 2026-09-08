@@ -653,7 +653,7 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:51:16.469Z",
-      "stage": "meetings",
+      "stage": "qualification",
       "activityLog": [
         {
           "id": "0446ec6c-438a-4f33-b557-a6951fb5cf66",
@@ -690,6 +690,14 @@
           "fromStage": "qualification",
           "toStage": "meetings",
           "text": "Moved to meetings"
+        },
+        {
+          "id": "0e51ef16-7171-461f-93f2-6d03daf14326",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T04:12:50.379Z",
+          "fromStage": "meetings",
+          "toStage": "qualification",
+          "text": "Moved to qualification"
         }
       ]
     },
@@ -1516,5 +1524,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:12:49.190Z"
+  "updatedAt": "2026-09-08T04:12:50.379Z"
 }
