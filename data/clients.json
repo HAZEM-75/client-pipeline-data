@@ -653,7 +653,7 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:51:16.469Z",
-      "stage": "lead-collection",
+      "stage": "outreach",
       "activityLog": [
         {
           "id": "0446ec6c-438a-4f33-b557-a6951fb5cf66",
@@ -730,6 +730,14 @@
           "fromStage": "outreach",
           "toStage": "lead-collection",
           "text": "Moved to lead collection"
+        },
+        {
+          "id": "8ef5a7f3-0ca7-43c8-93dd-0c11dc4a5a30",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T04:12:57.725Z",
+          "fromStage": "lead-collection",
+          "toStage": "outreach",
+          "text": "Moved to outreach"
         }
       ]
     },
@@ -1556,5 +1564,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:12:56.495Z"
+  "updatedAt": "2026-09-08T04:12:57.725Z"
 }
