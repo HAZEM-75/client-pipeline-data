@@ -1271,8 +1271,29 @@
           "text": "Moved to client"
         }
       ]
+    },
+    {
+      "id": "3ccd4efb-2516-44bf-9769-30c225e55658",
+      "name": "hard-1788827497632-0",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "hard-1788827497632-0@example.com",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-08T00:31:38.242Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "ab07cdea-595f-401c-ab73-32863cdde533",
+          "type": "created",
+          "timestamp": "2026-09-08T00:31:38.242Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:30:25.004Z"
+  "updatedAt": "2026-09-08T00:31:38.242Z"
 }
