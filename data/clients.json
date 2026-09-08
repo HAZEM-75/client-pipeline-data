@@ -1102,7 +1102,7 @@
       "leadSource": "manual",
       "outreachMessage": "Test message",
       "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T19:05:33.202Z",
       "stage": "lead-collection",
       "activityLog": [
@@ -1175,6 +1175,12 @@
           "fromStage": "outreach",
           "toStage": "lead-collection",
           "text": "Moved to lead collection"
+        },
+        {
+          "id": "62fee11f-df16-4680-aeb5-b95ccbb31b6c",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:05:03.469Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1238,5 +1244,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:05:00.163Z"
+  "updatedAt": "2026-09-08T00:05:03.469Z"
 }
