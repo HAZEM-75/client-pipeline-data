@@ -1743,7 +1743,7 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T06:51:49.505Z",
-      "stage": "lead-collection",
+      "stage": "outreach",
       "followUpCount": 0,
       "activityLog": [
         {
@@ -1751,10 +1751,18 @@
           "type": "created",
           "timestamp": "2026-09-08T06:51:49.505Z",
           "text": "Client created"
+        },
+        {
+          "id": "76bb20ca-493a-4d7b-abe4-fad2979d4d56",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T06:51:50.935Z",
+          "fromStage": "lead-collection",
+          "toStage": "outreach",
+          "text": "Moved to outreach"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:51:49.505Z"
+  "updatedAt": "2026-09-08T06:51:50.935Z"
 }
