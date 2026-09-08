@@ -1657,8 +1657,29 @@
           "text": "Moved to follow ups"
         }
       ]
+    },
+    {
+      "id": "1d88e84a-aafd-4a5e-8d85-622be47b35bd",
+      "name": "Test 1788847796256 0.4942997335615483",
+      "platform": "TikTok",
+      "channelUrl": "https://youtube.com/test",
+      "email": "original@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-08T06:09:56.611Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "a4b2b71b-4fa3-4231-8d20-58719b923f4f",
+          "type": "created",
+          "timestamp": "2026-09-08T06:09:56.611Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:09:54.781Z"
+  "updatedAt": "2026-09-08T06:09:56.611Z"
 }
