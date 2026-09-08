@@ -1719,20 +1719,26 @@
       "leadSource": "",
       "outreachMessage": "",
       "notes": "",
-      "lastContactDate": null,
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-08T06:55:36.137Z",
       "stage": "outreach",
-      "followUpCount": 6,
+      "followUpCount": 7,
       "activityLog": [
         {
           "id": "950a5170-301c-4a3c-9870-3147170d3ff0",
           "type": "imported",
           "timestamp": "2026-09-08T06:55:36.137Z",
           "text": "Imported from spreadsheet"
+        },
+        {
+          "id": "03e4cac7-a975-4eed-96c0-a8af0bdfee61",
+          "type": "contacted",
+          "timestamp": "2026-09-08T06:55:39.388Z",
+          "text": "Marked as contacted — 7th follow-up"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:55:36.137Z"
+  "updatedAt": "2026-09-08T06:55:39.388Z"
 }
