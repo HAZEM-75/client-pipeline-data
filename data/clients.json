@@ -1379,8 +1379,29 @@
           "text": "Moved to replies"
         }
       ]
+    },
+    {
+      "id": "f6acc508-ecaf-4c3c-9d55-3b09fd4ef4ac",
+      "name": "Test 1788826951375 0.61814166177868",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-01-15",
+      "createdAt": "2026-09-08T00:22:31.649Z",
+      "stage": "lead-collection",
+      "activityLog": [
+        {
+          "id": "cbe00630-a646-41c8-9c55-dcca167a7e66",
+          "type": "created",
+          "timestamp": "2026-09-08T00:22:31.649Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:22:30.435Z"
+  "updatedAt": "2026-09-08T00:22:31.649Z"
 }
