@@ -742,7 +742,7 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:51:20.141Z",
-      "stage": "replies",
+      "stage": "qualification",
       "activityLog": [
         {
           "id": "05306f7e-59e4-4357-b65c-7a28510ea7fc",
@@ -771,6 +771,14 @@
           "type": "contacted",
           "timestamp": "2026-09-08T00:52:52.489Z",
           "text": "Marked as contacted"
+        },
+        {
+          "id": "0ea6f0c9-ec3c-4ac5-94bb-63b30eaa1129",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T04:12:46.567Z",
+          "fromStage": "replies",
+          "toStage": "qualification",
+          "text": "Moved to qualification"
         }
       ]
     },
@@ -1492,5 +1500,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:12:45.403Z"
+  "updatedAt": "2026-09-08T04:12:46.567Z"
 }
