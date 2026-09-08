@@ -1472,8 +1472,29 @@
           "text": "Marked as contacted"
         }
       ]
+    },
+    {
+      "id": "ac7671b3-c21e-427b-a5f9-5f24c90efb45",
+      "name": "HoverVerify B 1788829481965",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "HoverVerifyB1788829481965@example.com",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-08T01:04:45.361Z",
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "754c57cd-7b0b-427d-99e2-572257eb0add",
+          "type": "created",
+          "timestamp": "2026-09-08T01:04:45.361Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T01:04:44.041Z"
+  "updatedAt": "2026-09-08T01:04:45.361Z"
 }
