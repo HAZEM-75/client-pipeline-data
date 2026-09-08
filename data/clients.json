@@ -1452,7 +1452,7 @@
       "notes": "",
       "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-08T01:03:59.011Z",
-      "stage": "outreach",
+      "stage": "follow-ups",
       "activityLog": [
         {
           "id": "dfecbe70-5e6c-4303-a5f0-f254c4d7dbd6",
@@ -1471,10 +1471,18 @@
           "type": "contacted",
           "timestamp": "2026-09-08T01:57:33.783Z",
           "text": "Marked as contacted"
+        },
+        {
+          "id": "0950c2d7-f45e-4f29-897b-c4b42d8740a2",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T04:12:44.110Z",
+          "fromStage": "outreach",
+          "toStage": "follow-ups",
+          "text": "Moved to follow ups"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:12:42.830Z"
+  "updatedAt": "2026-09-08T04:12:44.110Z"
 }
