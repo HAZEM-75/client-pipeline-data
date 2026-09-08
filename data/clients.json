@@ -579,7 +579,7 @@
       "leadSource": "organic",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "⚠ Stale - needs follow-up!",
-      "lastContactDate": "2026-08-26",
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:51:16.469Z",
       "stage": "follow-ups",
       "activityLog": [
@@ -588,6 +588,12 @@
           "type": "created",
           "timestamp": "2026-09-07T03:51:16.469Z",
           "text": "Client created"
+        },
+        {
+          "id": "91421639-e2ed-4bee-af9d-96f9ab01fdc7",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:49:14.094Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1280,5 +1286,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:49:12.777Z"
+  "updatedAt": "2026-09-08T00:49:14.094Z"
 }
