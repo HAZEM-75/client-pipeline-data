@@ -1747,7 +1747,7 @@
       "leadSource": "",
       "outreachMessage": "",
       "notes": "",
-      "lastContactDate": null,
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-08T06:55:48.291Z",
       "stage": "qualification",
       "followUpCount": 0,
@@ -1757,10 +1757,16 @@
           "type": "created",
           "timestamp": "2026-09-08T06:55:48.291Z",
           "text": "Client created"
+        },
+        {
+          "id": "59297013-aeca-4d48-94ba-416e27308abc",
+          "type": "contacted",
+          "timestamp": "2026-09-08T06:55:51.635Z",
+          "text": "Marked as contacted"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:55:48.291Z"
+  "updatedAt": "2026-09-08T06:55:51.635Z"
 }
