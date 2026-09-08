@@ -1864,17 +1864,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T06:11:46.718Z",
-      "stage": "lead-collection",
+      "stage": "client",
       "activityLog": [
         {
           "id": "716d6e49-00ca-47e7-b774-c4698cf95253",
           "type": "created",
           "timestamp": "2026-09-08T06:11:46.718Z",
           "text": "Client created"
+        },
+        {
+          "id": "2fe442c7-768a-4a29-9c45-31aa87817237",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T06:11:48.149Z",
+          "fromStage": "lead-collection",
+          "toStage": "client",
+          "text": "Moved to client"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:11:46.718Z"
+  "updatedAt": "2026-09-08T06:11:48.149Z"
 }
