@@ -1085,13 +1085,21 @@
       "notes": "Active conversation",
       "lastContactDate": "2026-09-03",
       "createdAt": "2026-09-07T03:51:34.048Z",
-      "stage": "client",
+      "stage": "outreach",
       "activityLog": [
         {
           "id": "65b1e764-3b7e-4bc8-b4a7-d625cfb6640d",
           "type": "created",
           "timestamp": "2026-09-07T03:51:34.048Z",
           "text": "Client created"
+        },
+        {
+          "id": "05da2dc9-8c49-49dd-8b3d-f782c4e543fb",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T04:13:05.849Z",
+          "fromStage": "client",
+          "toStage": "outreach",
+          "text": "Moved to outreach"
         }
       ]
     },
@@ -1580,5 +1588,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:13:04.510Z"
+  "updatedAt": "2026-09-08T04:13:05.849Z"
 }
