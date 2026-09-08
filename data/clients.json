@@ -1362,7 +1362,7 @@
       "leadSource": "",
       "outreachMessage": "",
       "notes": "",
-      "lastContactDate": null,
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-08T00:38:54.069Z",
       "stage": "lead-collection",
       "activityLog": [
@@ -1371,6 +1371,12 @@
           "type": "created",
           "timestamp": "2026-09-08T00:38:54.069Z",
           "text": "Client created"
+        },
+        {
+          "id": "f8aa34a9-bb4e-48bc-9bb7-bda9a4a4f37c",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:39:02.578Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1418,5 +1424,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:39:00.988Z"
+  "updatedAt": "2026-09-08T00:39:02.578Z"
 }
