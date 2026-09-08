@@ -1748,17 +1748,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T06:29:27.108Z",
-      "stage": "lead-collection",
+      "stage": "replies",
       "activityLog": [
         {
           "id": "ab476d28-41ac-4764-b467-49d1c8c4bbb2",
           "type": "created",
           "timestamp": "2026-09-08T06:29:27.108Z",
           "text": "Client created"
+        },
+        {
+          "id": "fd7e5fe0-f5fc-485d-89f4-57d0c300babd",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T06:29:28.462Z",
+          "fromStage": "lead-collection",
+          "toStage": "replies",
+          "text": "Moved to replies"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:29:27.108Z"
+  "updatedAt": "2026-09-08T06:29:28.462Z"
 }
