@@ -1385,8 +1385,29 @@
           "text": "Moved to client"
         }
       ]
+    },
+    {
+      "id": "7aea2c48-26b4-46cf-b291-982cf4f8f7f5",
+      "name": "HoverVerify A 1788829435658",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "HoverVerifyA1788829435658@example.com",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-08T01:03:56.215Z",
+      "stage": "outreach",
+      "activityLog": [
+        {
+          "id": "30ffdf59-fae8-4a81-ba10-f811f3bfe82d",
+          "type": "created",
+          "timestamp": "2026-09-08T01:03:56.215Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T01:02:02.955Z"
+  "updatedAt": "2026-09-08T01:03:56.215Z"
 }
