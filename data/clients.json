@@ -30,7 +30,7 @@
       "leadSource": "webinar",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "Active conversation",
-      "lastContactDate": "2026-09-02",
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T03:29:03.782Z",
       "stage": "outreach",
       "activityLog": [
@@ -39,6 +39,12 @@
           "type": "created",
           "timestamp": "2026-09-07T03:29:03.782Z",
           "text": "Client created"
+        },
+        {
+          "id": "5cc45641-486a-4953-abe6-8a96ed08cec1",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:52:48.454Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1322,5 +1328,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:52:46.879Z"
+  "updatedAt": "2026-09-08T00:52:48.454Z"
 }
