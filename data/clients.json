@@ -1447,39 +1447,6 @@
       ]
     },
     {
-      "id": "ee3d9838-d5fe-4e6b-98f8-1d56df7f0a04",
-      "name": "HoverVerify A 1788829481965",
-      "platform": "YouTube",
-      "channelUrl": "",
-      "email": "HoverVerifyA1788829481965@example.com",
-      "leadSource": "",
-      "outreachMessage": "",
-      "notes": "",
-      "lastContactDate": "2026-09-08",
-      "createdAt": "2026-09-08T01:04:42.495Z",
-      "stage": "outreach",
-      "activityLog": [
-        {
-          "id": "d42bad54-0d83-4792-a35a-80cf5e03a454",
-          "type": "created",
-          "timestamp": "2026-09-08T01:04:42.495Z",
-          "text": "Client created"
-        },
-        {
-          "id": "8ae3e6bd-ae66-46d6-a29f-580ba2ddaa26",
-          "type": "contacted",
-          "timestamp": "2026-09-08T01:04:44.041Z",
-          "text": "Marked as contacted"
-        },
-        {
-          "id": "88721a61-f27a-4d5c-92b9-76607addc81a",
-          "type": "contacted",
-          "timestamp": "2026-09-08T01:04:57.034Z",
-          "text": "Marked as contacted"
-        }
-      ]
-    },
-    {
       "id": "ac7671b3-c21e-427b-a5f9-5f24c90efb45",
       "name": "HoverVerify B 1788829481965",
       "platform": "YouTube",
@@ -1514,5 +1481,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T01:05:11.895Z"
+  "updatedAt": "2026-09-08T01:05:18.198Z"
 }
