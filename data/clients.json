@@ -1658,17 +1658,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T05:12:44.867Z",
-      "stage": "lead-collection",
+      "stage": "outreach",
       "activityLog": [
         {
           "id": "b5241cb0-83e3-475a-bfef-18c403fec41c",
           "type": "created",
           "timestamp": "2026-09-08T05:12:44.867Z",
           "text": "Client created"
+        },
+        {
+          "id": "2fdf70d5-a43d-4712-a1d8-f3776ac297a8",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T05:12:46.130Z",
+          "fromStage": "lead-collection",
+          "toStage": "outreach",
+          "text": "Moved to outreach"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T05:12:44.867Z"
+  "updatedAt": "2026-09-08T05:12:46.130Z"
 }
