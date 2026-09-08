@@ -1729,17 +1729,25 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-08T04:25:09.479Z",
-      "stage": "lead-collection",
+      "stage": "qualification",
       "activityLog": [
         {
           "id": "1edfae25-9016-436c-821d-fb5a11fe0fe6",
           "type": "created",
           "timestamp": "2026-09-08T04:25:09.479Z",
           "text": "Client created"
+        },
+        {
+          "id": "3dd715ee-53d0-46d1-be65-34b2302842fd",
+          "type": "stage-change",
+          "timestamp": "2026-09-08T04:25:10.815Z",
+          "fromStage": "lead-collection",
+          "toStage": "qualification",
+          "text": "Moved to qualification"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:25:09.479Z"
+  "updatedAt": "2026-09-08T04:25:10.815Z"
 }
