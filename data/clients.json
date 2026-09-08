@@ -979,7 +979,7 @@
       "leadSource": "manual",
       "outreachMessage": "Test message",
       "notes": "Test notes",
-      "lastContactDate": "2026-08-23",
+      "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-07T18:17:12.848Z",
       "stage": "outreach",
       "activityLog": [
@@ -988,6 +988,12 @@
           "type": "created",
           "timestamp": "2026-09-07T18:17:12.848Z",
           "text": "Client created"
+        },
+        {
+          "id": "48ce1211-8a20-45bd-8b6e-e617c8cfd914",
+          "type": "contacted",
+          "timestamp": "2026-09-08T00:05:16.551Z",
+          "text": "Marked as contacted"
         }
       ]
     },
@@ -1268,5 +1274,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T00:05:14.027Z"
+  "updatedAt": "2026-09-08T00:05:16.551Z"
 }
