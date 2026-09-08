@@ -1611,35 +1611,6 @@
       ]
     },
     {
-      "id": "f4c06296-972a-432a-9ea1-2fd6b2e53929",
-      "name": "Test 1788841499355 0.5357199294670486",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-08T04:24:59.663Z",
-      "stage": "outreach",
-      "activityLog": [
-        {
-          "id": "c13f726f-0a28-4ac3-93f8-e082d93a1dd7",
-          "type": "created",
-          "timestamp": "2026-09-08T04:24:59.663Z",
-          "text": "Client created"
-        },
-        {
-          "id": "dec29c35-d253-4990-b45d-893c61546c19",
-          "type": "stage-change",
-          "timestamp": "2026-09-08T04:25:01.478Z",
-          "fromStage": "lead-collection",
-          "toStage": "outreach",
-          "text": "Moved to outreach"
-        }
-      ]
-    },
-    {
       "id": "2427b7e4-04b7-461f-9b84-42fa61c4f736",
       "name": "Test 1788841502602 0.04392966522430064",
       "platform": "YouTube",
@@ -1815,5 +1786,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:25:20.049Z"
+  "updatedAt": "2026-09-08T04:25:21.811Z"
 }
