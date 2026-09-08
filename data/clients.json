@@ -1657,35 +1657,8 @@
           "text": "Moved to follow ups"
         }
       ]
-    },
-    {
-      "id": "f24bea4e-80be-442c-aab3-93190939472a",
-      "name": "New Name",
-      "platform": "TikTok",
-      "channelUrl": "https://youtube.com/test",
-      "email": "original@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-08T06:29:11.191Z",
-      "stage": "lead-collection",
-      "activityLog": [
-        {
-          "id": "0f123dc8-c8f4-4e59-a0ad-93091318360c",
-          "type": "created",
-          "timestamp": "2026-09-08T06:29:11.191Z",
-          "text": "Client created"
-        },
-        {
-          "id": "ccc82b62-62a4-47c3-b3a2-76ca990e1a6a",
-          "type": "updated",
-          "timestamp": "2026-09-08T06:29:12.554Z",
-          "text": "Updated: Name"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:29:12.554Z"
+  "updatedAt": "2026-09-08T06:29:13.809Z"
 }
