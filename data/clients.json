@@ -1609,29 +1609,8 @@
           "text": "Moved to follow ups"
         }
       ]
-    },
-    {
-      "id": "ed6601e8-de00-4ee5-86df-309116242a63",
-      "name": "Test 1788841557711 0.5232750761033615",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-08-24",
-      "createdAt": "2026-09-08T04:25:57.996Z",
-      "stage": "closing",
-      "activityLog": [
-        {
-          "id": "2865818f-c8c3-45ea-a5d3-14c96c6ab76b",
-          "type": "created",
-          "timestamp": "2026-09-08T04:25:57.996Z",
-          "text": "Client created"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T04:26:04.766Z"
+  "updatedAt": "2026-09-08T04:26:06.119Z"
 }
