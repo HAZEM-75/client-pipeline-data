@@ -1385,29 +1385,8 @@
           "text": "Moved to client"
         }
       ]
-    },
-    {
-      "id": "1cd1b7c3-d61f-4053-8c55-c77b95dcf61a",
-      "name": "Test 1788829292155 0.517120585475769",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-08T01:01:32.447Z",
-      "stage": "outreach",
-      "activityLog": [
-        {
-          "id": "8727096b-dd94-48c6-b2e6-462367b4a210",
-          "type": "created",
-          "timestamp": "2026-09-08T01:01:32.447Z",
-          "text": "Client created"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T01:01:35.285Z"
+  "updatedAt": "2026-09-08T01:01:36.687Z"
 }
