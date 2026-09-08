@@ -1709,8 +1709,30 @@
         }
       ],
       "followUpCount": 0
+    },
+    {
+      "id": "8922b473-f45a-4bb4-81fd-dd3cd6c602f7",
+      "name": "VerifyFollowUp",
+      "platform": "YouTube",
+      "channelUrl": "",
+      "email": "verify-followup@test.local",
+      "leadSource": "",
+      "outreachMessage": "",
+      "notes": "",
+      "lastContactDate": null,
+      "createdAt": "2026-09-08T06:55:36.137Z",
+      "stage": "outreach",
+      "followUpCount": 6,
+      "activityLog": [
+        {
+          "id": "950a5170-301c-4a3c-9870-3147170d3ff0",
+          "type": "imported",
+          "timestamp": "2026-09-08T06:55:36.137Z",
+          "text": "Imported from spreadsheet"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-08T06:52:59.653Z"
+  "updatedAt": "2026-09-08T06:55:36.137Z"
 }
