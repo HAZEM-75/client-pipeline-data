@@ -1387,7 +1387,7 @@
       "leadSource": "",
       "outreachMessage": "",
       "notes": "",
-      "lastContactDate": "2026-09-08",
+      "lastContactDate": "2026-09-09",
       "createdAt": "2026-09-07T04:33:27.057Z",
       "stage": "lead-collection",
       "activityLog": [
@@ -1418,6 +1418,12 @@
           "fromStage": "outreach",
           "toStage": "lead-collection",
           "text": "Moved to lead collection"
+        },
+        {
+          "id": "11141011-ed5f-4483-907e-86631a5c4a28",
+          "type": "contacted",
+          "timestamp": "2026-09-09T02:29:31.148Z",
+          "text": "Marked as contacted"
         }
       ],
       "followUpCount": 0
@@ -1864,5 +1870,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T02:08:52.952Z"
+  "updatedAt": "2026-09-09T02:29:31.148Z"
 }
