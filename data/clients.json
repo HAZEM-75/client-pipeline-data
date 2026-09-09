@@ -837,7 +837,7 @@
       "leadSource": "organic",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "⚠ Stale - needs follow-up!",
-      "lastContactDate": "2026-09-08",
+      "lastContactDate": "2026-09-09",
       "createdAt": "2026-09-07T03:51:16.469Z",
       "stage": "outreach",
       "activityLog": [
@@ -924,9 +924,15 @@
           "fromStage": "lead-collection",
           "toStage": "outreach",
           "text": "Moved to outreach"
+        },
+        {
+          "id": "b25faa34-cffd-4f68-a9d2-93caba9b0600",
+          "type": "contacted",
+          "timestamp": "2026-09-09T02:31:24.351Z",
+          "text": "Marked as contacted — 1st follow-up"
         }
       ],
-      "followUpCount": 0
+      "followUpCount": 1
     },
     {
       "id": "8ca640e2-664a-4f34-89c2-c612201d0b6c",
@@ -1876,5 +1882,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T02:30:48.330Z"
+  "updatedAt": "2026-09-09T02:31:24.351Z"
 }
