@@ -845,7 +845,7 @@
       "notes": "⚠ Stale - needs follow-up!",
       "lastContactDate": "2026-09-09",
       "createdAt": "2026-09-07T03:51:16.469Z",
-      "stage": "outreach",
+      "stage": "replies",
       "activityLog": [
         {
           "id": "0446ec6c-438a-4f33-b557-a6951fb5cf66",
@@ -936,6 +936,14 @@
           "type": "contacted",
           "timestamp": "2026-09-09T02:31:24.351Z",
           "text": "Marked as contacted — 1st follow-up"
+        },
+        {
+          "id": "937c9ffa-e4f8-42a5-b5dd-19aba5f6c27d",
+          "type": "stage-change",
+          "timestamp": "2026-09-09T03:01:02.355Z",
+          "fromStage": "outreach",
+          "toStage": "replies",
+          "text": "Moved to replies"
         }
       ],
       "followUpCount": 1
@@ -1888,5 +1896,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T02:35:40.620Z"
+  "updatedAt": "2026-09-09T03:01:02.355Z"
 }
