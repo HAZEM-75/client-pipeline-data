@@ -2019,8 +2019,30 @@
           "text": "Client created"
         }
       ]
+    },
+    {
+      "id": "3a4827ab-ffff-41ae-aa61-bb137f7e03d3",
+      "name": "Test 1788930988834 0.6545224684513002",
+      "platform": "YouTube",
+      "channelUrl": "https://youtube.com/test",
+      "email": "test@example.com",
+      "leadSource": "manual",
+      "outreachMessage": "Test message",
+      "notes": "Test notes",
+      "lastContactDate": "2026-08-25",
+      "createdAt": "2026-09-09T05:16:29.207Z",
+      "stage": "meetings",
+      "followUpCount": 0,
+      "activityLog": [
+        {
+          "id": "31e4531a-23c9-4d75-afb5-4141bccdbb54",
+          "type": "created",
+          "timestamp": "2026-09-09T05:16:29.207Z",
+          "text": "Client created"
+        }
+      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T05:16:27.795Z"
+  "updatedAt": "2026-09-09T05:16:29.207Z"
 }
