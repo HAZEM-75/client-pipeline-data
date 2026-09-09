@@ -1792,7 +1792,7 @@
       "email": "HoverVerifyA1788829435658@example.com",
       "leadSource": "",
       "outreachMessage": "",
-      "notes": "",
+      "notes": "verify note 1788920971690",
       "lastContactDate": "2026-09-08",
       "createdAt": "2026-09-08T01:03:56.215Z",
       "stage": "lead-collection",
@@ -1822,6 +1822,12 @@
           "fromStage": "outreach",
           "toStage": "lead-collection",
           "text": "Moved to lead collection"
+        },
+        {
+          "id": "144839f0-f19b-4fc7-a680-017deb3aba4c",
+          "type": "note",
+          "timestamp": "2026-09-09T02:29:32.752Z",
+          "text": "verify note 1788920971690"
         }
       ],
       "followUpCount": 0
@@ -1870,5 +1876,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T02:29:31.148Z"
+  "updatedAt": "2026-09-09T02:29:32.752Z"
 }
