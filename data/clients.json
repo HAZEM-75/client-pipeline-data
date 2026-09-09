@@ -2085,7 +2085,7 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-09T05:15:42.736Z",
-      "stage": "lead-collection",
+      "stage": "meetings",
       "followUpCount": 0,
       "activityLog": [
         {
@@ -2093,10 +2093,18 @@
           "type": "created",
           "timestamp": "2026-09-09T05:15:42.736Z",
           "text": "Client created"
+        },
+        {
+          "id": "ff0ce274-bdf2-42f6-b35f-f8eb30c6be00",
+          "type": "stage-change",
+          "timestamp": "2026-09-09T05:15:44.202Z",
+          "fromStage": "lead-collection",
+          "toStage": "meetings",
+          "text": "Moved to meetings"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T05:15:42.736Z"
+  "updatedAt": "2026-09-09T05:15:44.202Z"
 }
