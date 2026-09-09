@@ -1965,7 +1965,7 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-09T04:24:02.344Z",
-      "stage": "lead-collection",
+      "stage": "outreach",
       "followUpCount": 0,
       "activityLog": [
         {
@@ -1973,10 +1973,18 @@
           "type": "created",
           "timestamp": "2026-09-09T04:24:02.344Z",
           "text": "Client created"
+        },
+        {
+          "id": "2d100c40-d40e-42bc-833f-e1381653674e",
+          "type": "stage-change",
+          "timestamp": "2026-09-09T04:24:03.823Z",
+          "fromStage": "lead-collection",
+          "toStage": "outreach",
+          "text": "Moved to outreach"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T04:24:02.344Z"
+  "updatedAt": "2026-09-09T04:24:03.823Z"
 }
