@@ -781,7 +781,7 @@
       "leadSource": "manual",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "Active conversation",
-      "lastContactDate": "2026-09-08",
+      "lastContactDate": "2026-09-09",
       "createdAt": "2026-09-07T03:51:14.103Z",
       "stage": "follow-ups",
       "activityLog": [
@@ -796,9 +796,15 @@
           "type": "contacted",
           "timestamp": "2026-09-08T00:49:15.405Z",
           "text": "Marked as contacted"
+        },
+        {
+          "id": "27eefd71-8e2e-4f68-907a-876aefbc49fb",
+          "type": "contacted",
+          "timestamp": "2026-09-09T02:35:40.620Z",
+          "text": "Marked as contacted — 1st follow-up"
         }
       ],
-      "followUpCount": 0
+      "followUpCount": 1
     },
     {
       "id": "e61682be-d347-476d-b70e-8a664deff4ce",
@@ -1882,5 +1888,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T02:31:24.351Z"
+  "updatedAt": "2026-09-09T02:35:40.620Z"
 }
