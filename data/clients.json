@@ -1995,7 +1995,7 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-09T04:24:05.137Z",
-      "stage": "lead-collection",
+      "stage": "follow-ups",
       "followUpCount": 0,
       "activityLog": [
         {
@@ -2003,10 +2003,18 @@
           "type": "created",
           "timestamp": "2026-09-09T04:24:05.137Z",
           "text": "Client created"
+        },
+        {
+          "id": "6440d3ff-9806-498c-82a9-f101c1541112",
+          "type": "stage-change",
+          "timestamp": "2026-09-09T04:24:06.738Z",
+          "fromStage": "lead-collection",
+          "toStage": "follow-ups",
+          "text": "Moved to follow ups"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T04:24:05.137Z"
+  "updatedAt": "2026-09-09T04:24:06.738Z"
 }
