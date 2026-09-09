@@ -375,7 +375,7 @@
       "leadSource": "tiktok-scraper",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "⚠ Stale - needs follow-up!",
-      "lastContactDate": "2026-09-08",
+      "lastContactDate": "2026-09-09",
       "createdAt": "2026-09-07T03:29:14.427Z",
       "stage": "follow-ups",
       "activityLog": [
@@ -398,9 +398,15 @@
           "type": "contacted",
           "timestamp": "2026-09-08T07:03:01.461Z",
           "text": "Marked as contacted — 1st follow-up"
+        },
+        {
+          "id": "13ff2302-7446-474a-af80-b9dc85a67500",
+          "type": "contacted",
+          "timestamp": "2026-09-09T02:08:52.952Z",
+          "text": "Marked as contacted — 2nd follow-up"
         }
       ],
-      "followUpCount": 1
+      "followUpCount": 2
     },
     {
       "id": "e6452492-2582-4973-b242-72f32c410611",
@@ -1858,5 +1864,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T02:08:24.829Z"
+  "updatedAt": "2026-09-09T02:08:52.952Z"
 }
