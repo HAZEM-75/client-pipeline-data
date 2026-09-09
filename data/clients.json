@@ -2055,7 +2055,7 @@
       "notes": "Test notes",
       "lastContactDate": "2026-01-15",
       "createdAt": "2026-09-09T04:24:10.758Z",
-      "stage": "lead-collection",
+      "stage": "qualification",
       "followUpCount": 0,
       "activityLog": [
         {
@@ -2063,10 +2063,18 @@
           "type": "created",
           "timestamp": "2026-09-09T04:24:10.758Z",
           "text": "Client created"
+        },
+        {
+          "id": "127bc770-c819-4ed0-9a75-500abcbed20c",
+          "type": "stage-change",
+          "timestamp": "2026-09-09T04:24:12.171Z",
+          "fromStage": "lead-collection",
+          "toStage": "qualification",
+          "text": "Moved to qualification"
         }
       ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T04:24:10.758Z"
+  "updatedAt": "2026-09-09T04:24:12.171Z"
 }
