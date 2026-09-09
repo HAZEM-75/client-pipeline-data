@@ -1931,38 +1931,8 @@
           "text": "Client created"
         }
       ]
-    },
-    {
-      "id": "4eb8f01c-69a3-4c08-a879-9991434df255",
-      "name": "Updated Name",
-      "platform": "YouTube",
-      "channelUrl": "https://youtube.com/test",
-      "email": "test@example.com",
-      "leadSource": "manual",
-      "outreachMessage": "Test message",
-      "notes": "Test notes",
-      "lastContactDate": "2026-01-15",
-      "createdAt": "2026-09-09T05:15:15.538Z",
-      "stage": "outreach",
-      "followUpCount": 0,
-      "activityLog": [
-        {
-          "id": "d1b6147a-fc55-4415-a621-c43beb6b7b5d",
-          "type": "created",
-          "timestamp": "2026-09-09T05:15:15.538Z",
-          "text": "Client created"
-        },
-        {
-          "id": "3a7d1cfa-7bd5-4b06-8bde-9ceefae39e97",
-          "type": "stage-change",
-          "timestamp": "2026-09-09T05:15:17.037Z",
-          "fromStage": "lead-collection",
-          "toStage": "outreach",
-          "text": "Moved to outreach"
-        }
-      ]
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T05:15:17.037Z"
+  "updatedAt": "2026-09-09T05:15:18.523Z"
 }
