@@ -149,7 +149,7 @@
       "leadSource": "cold-email",
       "outreachMessage": "Initial outreach sent, waiting for response...",
       "notes": "⚠ Stale - needs follow-up!",
-      "lastContactDate": "2026-09-08",
+      "lastContactDate": "2026-09-09",
       "createdAt": "2026-09-07T03:29:08.157Z",
       "stage": "follow-ups",
       "activityLog": [
@@ -164,9 +164,15 @@
           "type": "contacted",
           "timestamp": "2026-09-08T00:49:17.971Z",
           "text": "Marked as contacted"
+        },
+        {
+          "id": "90fd6e9a-4227-4621-aff5-9fbcfea26732",
+          "type": "contacted",
+          "timestamp": "2026-09-09T02:08:23.510Z",
+          "text": "Marked as contacted — 1st follow-up"
         }
       ],
-      "followUpCount": 0
+      "followUpCount": 1
     },
     {
       "id": "1c6ef227-2aa0-461a-9a83-d4f28d8751a0",
@@ -1846,5 +1852,5 @@
     }
   ],
   "version": 1,
-  "updatedAt": "2026-09-09T02:08:18.451Z"
+  "updatedAt": "2026-09-09T02:08:23.510Z"
 }
